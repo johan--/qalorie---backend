@@ -1,0 +1,238 @@
+<div id="info">
+
+    <h2 class="title-page text-green">let's get started</h2>
+    <h5 class="subtitle-page">Help Qalorie to tailor your fitness and nutrition experience</h5>
+
+    <div class="box-centered box-info">
+
+        <h5 class="title-info">Personal Information</h5>
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div id="personal-info">
+                    <div class='row'>
+                        <div class="col-xs-6">
+                            <div class="form-group">
+                                <label class="lb-normal" for="first_name">first name</label>
+                                <input type="text" id="first_name" class="form-control" name="first_name" value="<%= user.get('first_name') %>" required/>
+                                <label id="first_name_error" class="error pos-bottom">
+                                    Please enter your first name
+                                </label>
+                            </div>
+                        </div>
+                        <div class="col-xs-6">
+                            <div class="form-group">
+                                <label class="lb-normal" for="last_name">last name</label>
+                                <input type="text" id="last_name" class="form-control" name="last_name" value="<%= user.get('last_name') %>" required/>
+                                <label id="last_name_error" class="error pos-bottom">
+                                    Please enter your last name
+                                </label>
+                            </div>
+                        </div>
+                    </div> <!-- /row_one -->
+                    <div class="form-group">
+                        <label class="lb-normal" for="email">email</label>
+                        <input type="text" id="email" class="form-control" name="email" value="<%= user.get('email') %>" required/>
+                        <label id="email_error" class="error pos-bottom">
+                            Please enter your email address
+                        </label>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="lb-normal inline">date of birth</label>
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <div id="days" class="bfh-selectbox full date" data-name="days" data-id="days" name="days" data-value="" required>
+                                    <div data-value="">DD</div>
+                                    <div data-value="1">01</div>
+                                    <div data-value="2">02</div>
+                                    <div data-value="3">03</div>
+                                    <div data-value="4">04</div>
+                                    <div data-value="5">05</div>
+                                    <div data-value="6">06</div>
+                                    <div data-value="7">07</div>
+                                    <div data-value="8">08</div>
+                                    <div data-value="9">09</div>
+                                    <div data-value="10">10</div>
+                                    <div data-value="11">11</div>
+                                    <div data-value="12">12</div>
+                                    <div data-value="13">13</div>
+                                    <div data-value="14">14</div>
+                                    <div data-value="15">15</div>
+                                    <div data-value="16">16</div>
+                                    <div data-value="17">17</div>
+                                    <div data-value="18">18</div>
+                                    <div data-value="19">19</div>
+                                    <div data-value="20">20</div>
+                                    <div data-value="21">21</div>
+                                    <div data-value="22">22</div>
+                                    <div data-value="23">23</div>
+                                    <div data-value="24">24</div>
+                                    <div data-value="25">25</div>
+                                    <div data-value="26">26</div>
+                                    <div data-value="27">27</div>
+                                    <div data-value="28">28</div>
+                                    <div data-value="29">29</div>
+                                    <div data-value="30">30</div>
+                                    <div data-value="31">31</div>
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <div id="month" class="bfh-selectbox full date" data-id="month" data-name="month" data-value="">
+                                    <div data-value="">MM</div>
+                                    <div data-value="0">January</div>
+                                    <div data-value="1">February</div>
+                                    <div data-value="2">March</div>
+                                    <div data-value="3">April</div>
+                                    <div data-value="4">May</div>
+                                    <div data-value="5">June</div>
+                                    <div data-value="6">July</div>
+                                    <div data-value="7">August</div>
+                                    <div data-value="8">September</div>
+                                    <div data-value="9">October</div>
+                                    <div data-value="10">November</div>
+                                    <div data-value="11">December</div>
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <div id="year" class="bfh-selectbox full date" data-id="year" data-name="year" data-value="">
+                                    <div data-value="">YYYY</div>
+                                    <% for (i=70; i>=18; i--) { %>
+                                        <div data-value="<%= moment().subtract(i, 'y').format('YYYY') %>">
+                                            <%= moment().subtract(i, 'y').format('YYYY') %>
+                                        </div>
+                                    <% } %>
+                                </div>
+                            </div>
+                            <label id="birthday_error" class="error pos-bottom">
+                                Please enter your birthday
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="lb-normal" for="gender">gender</label>
+                        <div id="gender" class="bfh-selectbox full" data-name="gender" data-id="gender" data-value="">
+                            <div data-value="">Select Gender</div>
+                            <div data-value="F">Female</div>
+                            <div data-value="M">Male</div>
+                        </div>
+                        <label id="gender_error" class="error pos-bottom">
+                            Please select your gender
+                        </label>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+        <h5 class="title-info">Nutritionist Information</h5>
+
+        <div class="nutritionist-info">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class='row'>
+                        <div class="col-xs-6">
+                            <div class="form-group">
+                                <label class="lb-normal" for="email">Rate $</label>
+                                <input type="text" id="rate" class="form-control" name="rate" value="<%= user.get('rate') %>" required/>
+                                <label id="rate_error" class="error pos-bottom">
+                                    Please enter your work rate
+                                </label>
+                            </div>
+                        </div>
+                        <div class="col-xs-6">
+                            <div class="form-group">
+                                <label class="lb-normal" for="experience_year">Year of Experience</label>
+                                <input type="text" id="experience_year" class="form-control" name="experience_year" value="<%= user.get('experience_year') %>" required/>
+                                <label id="experience_year_error" class="error pos-bottom">
+                                    Please enter year of experience
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="lb-normal" for="studies">Studies</label>
+                        <textarea id="studies" class="form-control" name="studies" rows="5" required><%= user.get('studies') %></textarea>
+                        <label id="studies_error" class="error pos-bottom">
+                            Please enter your studies
+                        </label>
+                    </div>
+                    <div class="form-group">
+                        <label class="lb-normal" for="career_history">Career History</label>
+                        <textarea id="career_history" class="form-control" name="career_history" rows="5" required><%= user.get('career_history') %></textarea>
+                        <label id="career_history_error" class="error pos-bottom">
+                            Please enter your career history
+                        </label>
+                    </div>
+                    <div class="form-group">
+                        <label class="lb-normal" for="certificate">Certificates</label>
+                        <form id="certificates-form">
+                            <div class="file-certificate" data-count="0">
+                                <div class="new-file-add">
+                                    <input type="file" id="certificate[0]" name="certificate" required/>    
+                                </div>
+                            </div>
+                        </form>
+                        <div class="clearfix"></div>
+                        <label id="certificate_error" class="error pos-bottom">
+                            Please upload your certificate at least one.
+                        </label>
+                    </div>
+                    <div class="form-group">
+                        <label class="lb-normal" for="license_number">License Number</label>
+                        <input type="text" id="license_number" class="form-control" name="license_number" value="<%= user.get('license_number') %>" required/>
+                        <label id="license_number_error" class="error pos-bottom">
+                            Please enter your license number
+                        </label>
+                    </div>
+                    <div class="form-group">
+                        <label class="lb-normal" for="license_copy">License Copy</label>
+                        <form id="license-copy-form">
+                            <div class="new-file-add">
+                                <input type="file" id="license_copy" name="license_copy" required/>    
+                            </div>
+                        </form>                   
+                        <label id="license_copy_error" class="error pos-bottom">
+                            Please upload your license copy
+                        </label>
+                    </div>
+                    <div class="form-group">
+                        <label class="lb-normal" for="biography">Biography</label>
+                        <textarea id="biography" class="form-control" name="biography" rows="5" required><%= user.get('biography') %></textarea>
+                        <label id="biography_error" class="error pos-bottom">
+                            Please enter your biography
+                        </label>
+                    </div>
+                    <div class="form-group">
+                        <label class="lb-normal" for="specialties">Specialties</label>
+                        <textarea id="specialties" class="form-control" name="specialties" rows="5" required><%= user.get('specialties') %></textarea>
+                        <label id="specialties_error" class="error pos-bottom">
+                            Please enter your specialties
+                        </label>
+                    </div>
+                    <div class="form-group">
+                        <label class="lb-normal inline">Language</label>
+                        <div id="language" class="bfh-selectbox full" data-id="language" data-name="language" data-value="<%= user.get('language') %>">
+                            <div data-value="">Select Language</div>
+                            <div data-value="english">English</div>
+                            <div data-value="spanish">Spanish</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="box-down-foot">
+            <div class="row">
+                <div class="col-sm-12 text-right">
+                    <button type="submit" class="btn-green-open mrg-no" id="next-step">Submit</button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div><!-- /personal information -->

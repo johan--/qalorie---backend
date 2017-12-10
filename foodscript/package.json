@@ -1,0 +1,17 @@
+{
+  "name": "foodscript",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+  	"mongoose": "^3.9.6",
+  	"csv":"0.4.6",
+  	"csv-parse":"1.0.0",
+  	"stream-transform":"0.1.0",
+  	"fast-csv":"0.6.0",
+  	"async":"1.4.2"
+  }
+}
+

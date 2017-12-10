@@ -1,0 +1,110 @@
+{% extends "base.html" %}
+
+{%block styles%}
+  <link rel="stylesheet" type="text/css" href="/css/login.css">
+{%endblock%}
+
+{% block layout %}
+
+  <header>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="logo-head">
+            <a href="/"><img src="/img/qalorie_logo_pixel.svg" height="40" alt="Qalorie" /></a>
+          </div>
+
+          <div class="pull-right">
+            <p>Already have an account?</p>
+            <a href="/login" class="btn-green-open btn-large mg-header-login">login</a>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section>
+
+    <div class="container-fluid">
+
+      <div class="row">
+
+        <div class="col-md-12">
+
+          <h2 class="title-page text-green">Let's get started!</h2>
+          <h5 class="subtitle-page">First, tell us what you're looking for.</h5>
+
+          <div class="account-type-container">
+            <div class="row">
+              <div class="col-sm-5">
+                <div class="account-type">
+                  <div class="icon">
+                    <img src="/img/account-user.png" />
+                  </div>
+                  <div class="title">
+                    I want to hire an expert
+                  </div>
+                  <div class="desc">
+                    Find, collaborate with, <br>
+                    and pay an expert.
+                  </div>
+                  <a class="btn-green-open" href="/signup-user">Find</a>
+                </div>
+              </div>
+              <div class="col-sm-2">
+                <div class="account-type">
+                  <div class="sec-divider">OR</div>
+                </div>
+              </div>
+              <div class="col-sm-5">
+                <div class="account-type">
+                  <div class="icon">
+                    <img src="/img/account-nutritionist.png" />
+                  </div>
+                  <div class="title">
+                    I'm looking for online work
+                  </div>
+                  <div class="desc">
+                    Support fitness and <br>
+                    nutritionist.
+                  </div>
+                  <a class="btn-green-open" href="/signup-nutritionist">Work</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-offset-0 col-sm-9 col-md-offset-1 col-md-7">
+        <div class="text-left">
+          <p class="upper">
+            Copyright © 2016 Qalorie™, Inc. All Rights Reserved.
+          </p>
+          <ul class="breadcrumb ">
+            <li><a href="mailto:contact@qalorie.com">contact us</a></li>
+            <li><a href="/terms">terms of use</a></li>
+            <li><a href="/privacy-policy">privacy policy</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-sm-3 col-md-3">
+        <div class="text-right">
+          <p>
+            <a href="/" title="">
+              <img src="/img/qalorie_logo_pixel.svg" height="40" onerror="this.onerror=null; this.src='/img/logo.png'" alt"Qalorie" />
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+{% endblock layout %}

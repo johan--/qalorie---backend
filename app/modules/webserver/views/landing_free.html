@@ -1,0 +1,426 @@
+{% extends 'base.html' %}
+
+{%block styles%}
+    <link rel="stylesheet" type="text/css" href="/css/landing.css">
+{%endblock%}
+
+{%block scripts%}
+{% parent %}
+    <script type="text/javascript" src="/js/landing_free.js"></script>
+{%endblock%}
+
+{% block layout %}
+<!-- first view -->
+<section class="firts_secc">
+    <div class="container">
+        <!-- slogan website -->
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="logo-maintenance">
+                    <img src="/img/logo_maintenance.png"/>
+                </div>
+                <div class="big_buttons">
+                    <div class="normal-text">
+                        <h3 class="subtitle-web">
+                            <strong>Losing Weight</strong>, the <strong>Right Way!</strong>
+                        </h3>
+                        <h3 class="subtitle-web">
+                            Qalorie is about <strong>Smart Nutrition</strong> from
+                        </h3>
+                        <h3 class="subtitle-web">
+                            the comfort of your <strong>home</strong>. You will have
+                        </h3>
+                        <h3 class="subtitle-web">
+                            your Nutritionist right in your <strong>pocket!</strong>
+                        </h3>
+                    </div>
+                    <a href="#" data-toggle="modal" data-target="#myModalVideo">
+                        <button class="btn btn-transparent" type="button">play video</button>
+                    </a>
+                    <div class="coming-soon">Coming Soon</div>
+                    <div class="mobile-logos"></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- Second view -->
+<section class="sec_secc">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-offset-1 col-md-10">
+
+                <h4 class="title-section">
+                    Seamless fitness system that sets your daily <strong>calorie budget</strong>, tracks your <strong>food</strong>, <strong>exercises</strong>, and provides <strong>nutritional consultations</strong> with following user tools.
+                </h4>
+
+                <!-- Menu tab -->
+                <ul class="nav nav-tabs nav-tabs-responsive" id="myTab" role="tablist">
+                    <li class="active">
+                        <a href="#dashboard" data-toggle="tab" class="dashboard upper text-center">dashboard</a>
+                    </li>
+                    <li>
+                        <a href="#status" data-toggle="tab" class="status upper text-center">status</a>
+                    </li>
+                    <li>
+                        <a href="#progress" data-toggle="tab" class="progresss upper text-center">progress</a>
+                    </li>
+                    <li>
+                        <a href="#food" data-toggle="tab" class="food upper text-center">food</a>
+                    </li>
+                    <li>
+                        <a href="#exercises" data-toggle="tab" class="exercises upper text-center">exercises</a>
+                    </li>
+                    <li>
+                        <a href="#nutritionist" data-toggle="tab" class="nutritionist upper text-center">nutritionist</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+
+                <div class="tab-content">
+                    <!-- dashboard tag -->
+                    <div class="tab-pane fade in active" id="dashboard">
+
+                        <div class="row">
+                            <div class="col-xs-12 visible-xs">
+                                <img src="/img/dashboard-tab.jpg" alt="" class="img-responsive" />
+                            </div>
+                            <div class="col-sm-5 col-md-5">
+
+                                <h5>Everything you need assembled in one place</h5>
+                                <p>
+                                    Dashboard will give you the ultimate boost in maintaining your own calorie budget. You can see everything you are logging about your foods, exercises, calorie loss, current progress and goals in dashboard section.
+                                </p>
+                                <p>
+                                    You can set your status, select your everyday mood, what motivates you and priorities on your checklist section. In the process, dashboard paves the path for your nutritionist to better judge your health condition.
+                                </p>
+
+                            </div>
+                            <div class="col-sm-7 col-md-offset-1 col-md-6 hidden-xs">
+                                <img src="/img/dashboard-tab.jpg" alt="" class="img-responsive" />
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- status tag -->
+                    <div class="tab-pane fade" id="status">
+
+                        <div class="row">
+                            <div class="col-xs-12 visible-xs">
+                                <img src="/img/status-tab.jpg" alt="" class="img-responsive" />
+                            </div>
+                            <div class="col-sm-5 col-md-5">
+
+                                <h5>Get inspired by contemplating positive changes in your body</h5>
+                                <p>
+                                    It’s always vital to know your current status if you want to achieve a certain goal at the end of the day. Based on this proven principle, the Status section of Qalorie allows users to view every single measurement of their different body parts.
+                                </p>
+                                <p>
+                                    The section is also dedicated to keep track of everything; like food intake, macronutrients, exercises and calories. You will be able to scale and overcome obstacles by making smarter choices.
+                                </p>
+
+                            </div>
+                            <div class="col-sm-7 col-md-offset-1 col-md-6 hidden-xs">
+                                <img src="/img/status-tab.jpg" alt="" class="img-responsive" />
+                            </div>
+                        </div>
+                    </div>
+                    <!-- progress tag -->
+                    <div class="tab-pane fade" id="progress">
+
+                        <div class="row">
+                            <div class="col-xs-12 visible-xs">
+                                <img src="/img/progress-tab.jpg" alt="" class="img-responsive" />
+                            </div>
+                            <div class="col-sm-5">
+
+                                <h5>Discover the power of comparable photos!</h5>
+                                <p>
+                                    Nothing is more gratifying than being able to track your own progress. Compare between two photos that are taken at different times to track your personalized progress. Our robust database can pin-point, even the smallest of changes you achieve.
+                                </p>
+                                <p>
+                                    You don’t need to seek suggestion from professional. You will be able to identify your positive changes from two comparable pictures and measurements. All you need to do is share that information with Qalorie!
+                                </p>
+
+                            </div>
+                            <div class="col-sm-7 col-md-offset-1 col-md-6 hidden-xs">
+                                <img src="/img/progress-tab.jpg" alt="" class="img-responsive" />
+                            </div>
+                        </div>
+                    </div>
+                    <!-- food tag -->
+                    <div class="tab-pane fade" id="food">
+
+                        <div class="row">
+                            <div class="col-xs-12 visible-xs">
+                                <img src="/img/food-tab.jpg" alt="" class="img-responsive" />
+                            </div>
+                            <div class="col-sm-5 col-md-5">
+
+                                <h5>Track what you eat and start getting healthy</h5>
+                                
+                                <p>
+                                    People who track food achieve more benefits on the way to better health. No matter if you are a vegetarian, pregnant, on a low fat or low carb diet; you can find personalized food information about the nutrients you need to eat.
+                                </p>
+                                <p>
+                                    Just record your daily food consumption and our Qalorie will do the hard work. Choose your own foods or meal plans recommended by our experts. You decide what goes for you.
+                                </p>
+                            </div>
+                            <div class="col-sm-7 col-md-offset-1 col-md-6 hidden-xs">
+                                <img src="/img/food-tab.jpg" alt="" class="img-responsive" />
+                            </div>
+                        </div>
+                    </div>
+                    <!-- exercises tag -->
+                    <div class="tab-pane fade" id="exercises">
+
+                        <div class="row">
+
+                            <div class="col-xs-12 visible-xs">
+                                <img src="/img/exercise-tab.jpg" alt="" class="img-responsive" />
+                            </div>
+
+                            <div class="col-sm-5 col-md-5">
+
+                                <h5>See how much calories you burn</h5>
+                                <p>
+                                    Gone are the days when you were confused of what exercises to perform. You will find hundreds of exercises under two different categories (Cardio & Strength). Just search for the exercises you prefer and start logging it.
+                                </p>
+                                <p>
+                                    Devote yourself only in doing the chosen exercises; Qalorie will do the rest for you. Just log how much time you spend in the exercise and we will show you how much calories you burned. In the process, you will have a tailor-made plan.
+                                </p>
+
+                            </div>
+                            <div class="col-sm-7 col-md-offset-1 col-md-6 hidden-xs">
+                                <img src="/img/exercise-tab.jpg" alt="" class="img-responsive" />
+                            </div>
+                        </div>
+                    </div>
+                    <!-- nutritionist tag -->
+                    <div class="tab-pane fade" id="nutritionist">
+
+                        <div class="row">
+                            <div class="col-xs-12 visible-xs">
+                                <img src="/img/nutritions-tab.jpg" alt="" class="img-responsive" />
+                            </div>
+                            <div class="col-sm-5">
+
+                                <h5>Online Nutritionist Anytime, Anywhere!</h5>
+                                <p>
+                                    When you are running out of time, you don't need to visit a nutritionist's chamber and spend long hours waiting for your turn. Besides, it's very expensive.
+                                </p>
+                                <p>
+                                    Join Qalorie and get access to <strong>certified nutritionists</strong> from the privacy and comfort of your home today!
+                                </p>
+                            </div>
+                            <div class="col-sm-7 col-md-offset-1 col-md-6 hidden-xs">
+                                <img src="/img/nutritions-tab.jpg" alt="" class="img-responsive" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Third view -->
+<section class="thrid_secc text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <a href="#" data-toggle="modal" data-target="#myModalVideo">
+                    <button class="btn btn-transparent" type="button">play video</button>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Fiveth view -->
+<section class="fiveth_secc">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-offset-2 col-md-8">
+                <h4 class="title-section">
+                  Qalorie is the unrivalled destination for the people who want to create their healthy living success stories
+                </h4>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-6">
+                <h4 class="title-subsection">Online Nutrition Consulting</h4>
+
+                <p class="description-subsection">
+                    Seamless access 24/7 for just $29.95/mo
+                </p>
+                <p class="description-subsection">
+                    What are you waiting for? <a href="/signup" class="text-blue">Join for FREE!</a>
+                </p>
+                <img src="/img/qalorie-online.jpg" alt="Online Nutrition Consulting" class="img-responsive" />
+            </div>
+            <div class="col-sm-6">
+                <h4 class="title-subsection">Traditional Nutrition Consulting</h4>
+
+                <p class="description-subsection">
+                    Long hours waiting, boring and too expensive.
+                </p>
+                <p class="description-subsection">
+                    Stop wasting money and start getting results!
+                </p>
+                <img src="/img/normal-consult.jpg" alt="Traditional Nutrition Consulting" class="img-responsive" />
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="final_secc">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <h4 class="title-subsection">Powerful nutrition & fitness app</h4>
+                <blockquote>
+                    As a nutritionist I highly recommend Qalorie. It's all you've been looking for, the perfect complement for success! We're committed to help you reach your goals with a strong consolidation of knowledge and experience in the health field.
+                </blockquote>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-offset-6 col-sm-6 col-md-offset-7 col-md-5">
+                        <div class="thumbnail text-center">
+                            <img src="/img/nutri.png" alt="" class="img-circle" />
+                            <p>
+                                Karen Calderon<br>Certified Nutritionist
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-6 pd-right_0">
+                <h4 class="title-subsection">Amazing experience!</h4>
+                <blockquote>
+                    I was searching online and found Qalorie, I said to myself... another way of losing weight. For only $29.95 with online Certified Nutritionist included I had nothing to lose and gave it a shot. Now, I am never looking back! I've lost 20 pounds and I feel fresh, happy and healthier than ever before!
+                </blockquote>
+                <div class="row">
+                    <div class="col-xs-12 col-sm-offset-6 col-sm-6 col-md-offset-7 col-md-5">
+                        <div class="thumbnail text-center">
+                            <img src="/img/client.png" alt="" class="img-circle" />
+                            <p>
+                                Erica Smith<br>Qalorie Member
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Footer -->
+<footer>
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-sm-3 col-md-2">
+                <a href="/" title="Qalorie" class="logo">
+                    <img src="/img/qalorie_logo_pixel.svg" height="50" alt="Qalorie" />
+                </a>
+            </div>
+            <div class="col-sm-6 col-md-8">
+
+                <p class="copyright">
+                    <a href="mailto:contact@qalorie.com">Contact</a> |
+                    <a href="/terms">Terms of Use</a> |
+                    <a href="/privacy-policy">Privacy</a>
+                </p>
+
+            </div>
+            <div class="col-sm-3 col-md-2">
+                <ul class="list-unstyled foot-socials">
+                    <li>
+                        <a href="http://instagram.com/qalorie" target="_blank" title="Qalorie Instagrant">
+                            <img src="/img/instagram-s.png" alt="Qalorie - Instagrant" height="40">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.facebook.com/Qalorie" target="_blank" title="Qalorie Facebook">
+                            <img src="/img/facebook-s.png" alt="Qalorie Facebook" height="40">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div class="modal fade video" id="myModalVideo" tabindex="-1" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <iframe src="https://player.vimeo.com/video/165379702" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+    if (!$('.nav-tabs-responsive li').hasClass('next')) {
+        $('.nav-tabs-responsive li:nth-child(2)').addClass('next');
+    }
+
+    $('.nav-tabs-responsive a[data-toggle="tab"]').on('show.bs.tab', function (e) {
+        var $target = $(e.target);
+        var $tabs = $target.closest('.nav-tabs-responsive');
+        var $current = $target.closest('li');
+        var $next = $current.next();
+        var $prev = $current.prev();
+
+        $tabs.find('>li').removeClass('next prev');
+        $prev.addClass('prev');
+        $next.addClass('next');
+
+    })
+
+    scaleVideoContainer();
+
+    $(window).on('resize', function() {
+        scaleVideoContainer();
+
+        $('.modal:visible').each(reposition);
+    });
+
+    function scaleVideoContainer() {
+
+        var height = $(window).height();
+        var unitHeight = parseInt(height - 56) + 'px';
+
+        //var head_height = $('.head').outerHeight(true);
+
+        //$('.firts_secc').css('height',unitHeight);
+
+    }
+
+    function reposition() {
+        var modal = $(this),
+            dialog = modal.find('.modal-dialog');
+        modal.css('display', 'block');
+        
+        dialog.css("margin-top", Math.max(0, ($(window).height() - dialog.height()) / 2));
+    }
+
+    $('.modal').on('show.bs.modal', reposition);
+    
+    $('.modal').on('hide.bs.modal', function(e) {    
+        var $if = $(e.delegateTarget).find('iframe');
+        var src = $if.attr("src");
+        $if.attr("src", '');
+        $if.attr("src", src);
+    });
+
+</script>
+{% endblock %}

@@ -1,0 +1,737 @@
+"""Main Muscle Worked""","""Level""","""pic_right""","""Mechanics Type""","""Equipment""","""Type""","""name""","""Other Muscles"""
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/669/Male/l/669_1.jpg,Compound,Barbell,Olympic Weightlifting,Clean,"Calves, Forearms, Glutes, Lower Back, Quadriceps, Shoulders, Traps"
+Shoulders,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/670/Male/l/670_1.jpg,Compound,Barbell,Olympic Weightlifting,Clean and Jerk,"Abdominals, Glutes, Hamstrings, Lower Back, Quadriceps, Traps, Triceps"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/671/Male/l/671_1.jpg,Compound,Barbell,Olympic Weightlifting,Clean Deadlift,"Forearms, Glutes, Lower Back, Middle Back, Quadriceps, Traps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/746/Male/l/746_1.jpg,Compound,Barbell,Olympic Weightlifting,Clean from Blocks,"Calves, Glutes, Hamstrings, Shoulders, Traps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/672/Male/l/672_1.jpg,Compound,Barbell,Olympic Weightlifting,Clean Pull,"Forearms, Glutes, Hamstrings, Lower Back, Traps"
+Traps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/673/Male/l/673_1.jpg,Compound,Barbell,Olympic Weightlifting,Clean Shrug,"Forearms, Shoulders"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/684/Male/l/684_1.jpg,Compound,Barbell,Olympic Weightlifting,Frankenstein Squat,"Abdominals, Calves, Glutes, Hamstrings"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/688/Male/l/688_1.jpg,Compound,Barbell,Olympic Weightlifting,Hang Clean,"Calves, Forearms, Glutes, Hamstrings, Lower Back, Shoulders, Traps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/689/Male/l/689_1.jpg,Compound,Barbell,Olympic Weightlifting,Hang Clean - Below the Knees,"Calves, Forearms, Glutes, Hamstrings, Lower Back, Shoulders, Traps"
+Hamstrings,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/690/Male/l/690_1.jpg,Compound,Barbell,Olympic Weightlifting,Hang Snatch,"Abdominals, Calves, Forearms, Glutes, Lower Back, Quadriceps, Shoulders, Traps"
+Hamstrings,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/691/Male/l/691_1.jpg,Compound,Barbell,Olympic Weightlifting,Hang Snatch - Below Knees,"Abdominals, Calves, Forearms, Glutes, Lower Back, Quadriceps, Shoulders, Traps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/693/Male/l/693_1.jpg,Compound,Barbell,Olympic Weightlifting,Heaving Snatch Balance,"Abdominals, Forearms, Glutes, Hamstrings, Shoulders, Triceps"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/694/Male/l/694_1.jpg,Compound,Barbell,Olympic Weightlifting,Jerk Balance,"Glutes, Hamstrings, Quadriceps, Triceps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/695/Male/l/695_1.jpg,Compound,Barbell,Olympic Weightlifting,Jerk Dip Squat,"Abdominals, Calves"
+Glutes,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/749/Male/l/749_1.jpg,Compound,Barbell,Olympic Weightlifting,Kneeling Jump Squat,"Calves, Hamstrings, Quadriceps"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/699/Male/l/699_1.jpg,Compound,Barbell,Olympic Weightlifting,Muscle Snatch,"Glutes, Lower Back, Quadriceps, Shoulders, Triceps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/700/Male/l/700_1.jpg,Compound,Barbell,Olympic Weightlifting,Olympic Squat,"Calves, Glutes, Hamstrings"
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/248/Male/l/248_1.jpg,Compound,Barbell,Olympic Weightlifting,Overhead Squat,"Abdominals, Calves, Glutes, Hamstrings, Lower Back, Shoulders, Triceps"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/748/Male/l/748_1.jpg,Compound,Barbell,Olympic Weightlifting,Power Clean from Blocks,Quadriceps
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/702/Male/l/702_1.jpg,Compound,Barbell,Olympic Weightlifting,Power Jerk,"Abdominals, Calves, Glutes, Hamstrings, Shoulders, Triceps"
+Hamstrings,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/703/Male/l/703_1.jpg,Compound,Barbell,Olympic Weightlifting,Power Snatch,"Calves, Glutes, Lower Back, Quadriceps, Shoulders, Traps, Triceps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/747/Male/l/747_1.jpg,Compound,Barbell,Olympic Weightlifting,Power Snatch from Blocks,"Calves, Forearms, Glutes, Hamstrings, Lower Back, Shoulders, Traps, Triceps"
+Shoulders,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/186/Male/l/186_1.jpg,Compound,Barbell,Olympic Weightlifting,Push Press,"Quadriceps, Triceps"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/708/Male/l/708_1.jpg,Compound,Barbell,Olympic Weightlifting,Push Press - Behind the Neck,"Calves, Quadriceps, Triceps"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/709/Male/l/709_1.jpg,Compound,Barbell,Olympic Weightlifting,Rack Delivery,"Forearms, Traps"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/751/Male/l/751_1.jpg,Compound,Barbell,Olympic Weightlifting,Romanian Deadlift from Deficit,"Forearms, Glutes, Lower Back, Traps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/187/Male/l/187_1.jpg,Compound,Barbell,Olympic Weightlifting,Snatch,"Biceps, Glutes, Hamstrings, Lower Back, Shoulders, Traps, Triceps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/715/Male/l/715_1.jpg,Compound,Barbell,Olympic Weightlifting,Snatch Balance,"Calves, Glutes, Hamstrings, Shoulders, Triceps"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/716/Male/l/716_1.jpg,Compound,Barbell,Olympic Weightlifting,Snatch Deadlift,"Forearms, Glutes, Hamstrings, Lower Back, Quadriceps, Traps"
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/745/Male/l/745_1.jpg,Compound,Barbell,Olympic Weightlifting,Snatch from Blocks,"Calves, Forearms, Glutes, Hamstrings, Lower Back, Shoulders, Traps, Triceps"
+Traps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/718/Male/l/718_1.jpg,Compound,Barbell,Olympic Weightlifting,Snatch Shrug,"Forearms, Shoulders"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/755/Male/l/755_1.jpg,Compound,Barbell,Olympic Weightlifting,Split Clean,"Calves, Forearms, Glutes, Hamstrings, Lower Back, Shoulders, Traps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/719/Male/l/719_1.jpg,Compound,Barbell,Olympic Weightlifting,Split Jerk,"Glutes, Hamstrings, Shoulders, Triceps"
+Hamstrings,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/720/Male/l/720_1.jpg,Compound,Barbell,Olympic Weightlifting,Split Snatch,"Calves, Forearms, Glutes, Hamstrings, Lower Back, Quadriceps, Shoulders, Traps, Triceps"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/744/Male/l/744_1.jpg,Compound,Barbell,Olympic Weightlifting,Wide Stance Stiff Legs,"Adductors, Glutes, Lower Back"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/760/Male/l/760_1.jpg,Compound,None,Plyometrics,Alternate Leg Diagonal Bound,"Abductors, Adductors, Calves, Glutes, Hamstrings"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/764/Male/l/764_1.jpg,Compound,Medicine Ball,Plyometrics,Backward Medicine Ball Throw,
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1891/Male/l/1891_1.jpg,Compound,Body Only,Plyometrics,Bench Jump,"Calves, Glutes, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1901/Male/l/1901_1.jpg,Compound,Other,Plyometrics,Bench Sprint,"Calves, Glutes, Hamstrings"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/766/Male/l/766_1.jpg,Compound,Other,Plyometrics,Box Jump (Multiple Response),"Abductors, Adductors, Calves, Glutes, Quadriceps"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/767/Male/l/767_1.jpg,Compound,Other,Plyometrics,Box Skip,"Abductors, Adductors, Calves, Glutes, Quadriceps"
+Adductors,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/961/Male/l/961_1.jpg,N/A,None,Plyometrics,Carioca Quick Step,"Abdominals, Abductors, Calves, Glutes, Hamstrings, Quadriceps"
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/768/Male/l/768_1.jpg,Compound,Medicine Ball,Plyometrics,Catch and Overhead Throw,"Abdominals, Chest, Shoulders"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/769/Male/l/769_1.jpg,Compound,Medicine Ball,Plyometrics,Chest Push (multiple response),"Abdominals, Shoulders, Triceps"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/770/Male/l/770_1.jpg,Compound,Medicine Ball,Plyometrics,Chest Push (single response),"Abdominals, Shoulders, Triceps"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/771/Male/l/771_1.jpg,Compound,Medicine Ball,Plyometrics,Chest Push from 3 point stance,"Abdominals, Shoulders, Triceps"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/772/Male/l/772_1.jpg,Compound,Medicine Ball,Plyometrics,Chest Push with Run Release,"Abdominals, Shoulders, Triceps"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/775/Male/l/775_1.jpg,Compound,Other,Plyometrics,Depth Jump Leap,"Abductors, Adductors, Calves, Glutes, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/778/Male/l/778_1.jpg,Compound,Body Only,Plyometrics,Double Leg Butt Kick,"Abductors, Adductors, Calves, Glutes, Hamstrings"
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/779/Male/l/779_1.jpg,Compound,Other,Plyometrics,Drop Push,"Shoulders, Triceps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1151/Male/l/1151_1.jpg,Compound,Dumbbell,Plyometrics,Dumbbell Seated Box Jump,"Calves, Glutes, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/780/Male/l/780_1.jpg,Compound,Body Only,Plyometrics,Fast Skipping,"Abductors, Adductors, Calves, Glutes, Hamstrings"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/782/Male/l/782_1.jpg,Compound,Other,Plyometrics,Front Box Jump,"Abductors, Adductors, Calves, Glutes, Quadriceps"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/783/Male/l/783_1.jpg,Compound,Other,Plyometrics,Front Cone Hops (or hurdle hops),"Abductors, Adductors, Calves, Glutes, Hamstrings"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/786/Male/l/786_1.jpg,Compound,Other,Plyometrics,Heavy Bag Thrust,"Abdominals, Shoulders, Triceps"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/788/Male/l/788_1.jpg,Compound,Other,Plyometrics,Hurdle Hops,"Abductors, Adductors, Calves, Glutes, Hamstrings"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/789/Male/l/789_1.jpg,Compound,Other,Plyometrics,Incline Push-Up Depth Jump,"Shoulders, Triceps"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/92/Male/l/92_1.jpg,Compound,Body Only,Plyometrics,Isometric Chest Squeezes,"Shoulders, Triceps"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/793/Male/l/793_1.jpg,Compound,Body Only,Plyometrics,Knee Tuck Jump,"Abductors, Adductors, Calves, Glutes, Quadriceps"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1021/Male/l/1021_1.jpg,N/A,None,Plyometrics,Kneeling Arm Drill,Abdominals
+Adductors,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/794/Male/l/794_1.jpg,Compound,Body Only,Plyometrics,Lateral Bound,"Abductors, Calves, Glutes, Hamstrings, Quadriceps"
+Adductors,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/795/Male/l/795_1.jpg,Compound,Other,Plyometrics,Lateral Box Jump,"Abductors, Calves, Glutes, Hamstrings, Quadriceps"
+Adductors,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/796/Male/l/796_1.jpg,Compound,Other,Plyometrics,Lateral Cone Hops,"Abductors, Calves, Glutes, Hamstrings, Quadriceps"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1031/Male/l/1031_1.jpg,Compound,None,Plyometrics,Linear 3-Part Start Technique,"Calves, Quadriceps"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/951/Male/l/951_1.jpg,Compound,None,Plyometrics,Linear Acceleration Wall Drill,"Calves, Glutes, Quadriceps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1141/Male/l/1141_1.jpg,Compound,Other,Plyometrics,Linear Depth Jump,"Calves, Glutes, Hamstrings"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/801/Male/l/801_1.jpg,Compound,Medicine Ball,Plyometrics,Medicine Ball Chest Pass,"Shoulders, Triceps"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/802/Male/l/802_1.jpg,Compound,Medicine Ball,Plyometrics,Medicine Ball Full Twist,Shoulders
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/805/Male/l/805_1.jpg,Compound,Medicine Ball,Plyometrics,Medicine Ball Scoop Throw,"Abdominals, Hamstrings, Quadriceps"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/608/Male/l/608_1.jpg,Compound,None,Plyometrics,Mountain Climbers,"Chest, Hamstrings, Shoulders"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1041/Male/l/1041_1.jpg,Compound,None,Plyometrics,Moving Claw Series,"Calves, Quadriceps"
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/905/Male/l/905_1.jpg,Compound,Medicine Ball,Plyometrics,Overhead Slam,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/910/Male/l/910_1.jpg,Compound,Body Only,Plyometrics,Plyo Push-up,"Shoulders, Triceps"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/810/Male/l/810_1.jpg,Compound,Other,Plyometrics,Quick Leap,"Calves, Hamstrings"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/811/Male/l/811_1.jpg,Compound,Medicine Ball,Plyometrics,Return Push from Stance,"Chest, Triceps"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/812/Male/l/812_1.jpg,Compound,Body Only,Plyometrics,Rocket Jump,"Calves, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/813/Male/l/813_1.jpg,Compound,Body Only,Plyometrics,Scissors Jump,"Glutes, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/816/Male/l/816_1.jpg,Compound,Other,Plyometrics,Side Hop-Sprint,"Abductors, Adductors, Calves, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/971/Male/l/971_1.jpg,Compound,None,Plyometrics,Side Standing Long Jump,"Calves, Glutes, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/817/Male/l/817_1.jpg,Compound,Other,Plyometrics,Side to Side Box Shuffle,"Abductors, Adductors, Calves, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/819/Male/l/819_1.jpg,Compound,Body Only,Plyometrics,Single Leg Butt Kick,"Calves, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/818/Male/l/818_1.jpg,Compound,Other,Plyometrics,Single Leg Push-off,"Calves, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/981/Male/l/981_1.jpg,N/A,Other,Plyometrics,Single-Cone Sprint Drill,"Calves, Glutes, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/821/Male/l/821_1.jpg,Compound,Other,Plyometrics,Single-Leg Hop Progression,"Abductors, Adductors, Calves, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/822/Male/l/822_1.jpg,Compound,Other,Plyometrics,Single-Leg Lateral Hop,"Abductors, Adductors, Calves, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/824/Male/l/824_1.jpg,Compound,Other,Plyometrics,Single-Leg Stride Jump,"Abductors, Adductors, Calves, Hamstrings"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/916/Male/l/916_1.jpg,Compound,Other,Plyometrics,Sledgehammer Swings,"Calves, Forearms, Lats, Middle Back, Shoulders"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/826/Male/l/826_1.jpg,Compound,Body Only,Plyometrics,Split Jump,"Calves, Glutes, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/831/Male/l/831_1.jpg,Compound,Body Only,Plyometrics,Standing Long Jump,"Calves, Glutes, Hamstrings"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/834/Male/l/834_1.jpg,Compound,Medicine Ball,Plyometrics,Standing Two-Arm Overhead Throw,"Chest, Lats"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/835/Male/l/835_1.jpg,Compound,Body Only,Plyometrics,Star Jump,"Calves, Glutes, Hamstrings, Shoulders"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/837/Male/l/837_1.jpg,Compound,Other,Plyometrics,Stride Jump Crossover,"Abductors, Adductors, Calves, Hamstrings"
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/838/Male/l/838_1.jpg,Compound,Medicine Ball,Plyometrics,Supine Chest Throw,"Chest, Shoulders"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/839/Male/l/839_1.jpg,Compound,Medicine Ball,Plyometrics,Supine One-Arm Overhead Throw,"Chest, Lats, Shoulders"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/840/Male/l/840_1.jpg,Compound,Medicine Ball,Plyometrics,Supine Two-Arm Overhead Throw,"Chest, Lats, Shoulders"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/842/Male/l/842_1.jpg,Compound,Dumbbell,Plyometrics,Vertical Swing,"Glutes, Quadriceps, Shoulders"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/729/Male/l/729_1.jpg,Compound,Bands,Powerlifting,Band Good Morning,"Glutes, Lower Back"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/740/Male/l/740_1.jpg,Compound,Bands,Powerlifting,Band Good Morning (Pull Through),"Glutes, Lower Back"
+Glutes,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/662/Male/l/662_1.jpg,Compound,Barbell,Powerlifting,Barbell Glute Bridge,"Calves, Hamstrings"
+Glutes,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/661/Male/l/661_1.jpg,Compound,Barbell,Powerlifting,Barbell Hip Thrust,"Calves, Hamstrings"
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/663/Male/l/663_1.jpg,Compound,Barbell,Powerlifting,Bench Press - Powerlifting,"Chest, Forearms, Lats, Shoulders"
+Triceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/732/Male/l/732_1.jpg,Compound,Barbell,Powerlifting,Bench Press with Chains,"Chest, Lats, Shoulders"
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/664/Male/l/664_1.jpg,Compound,Barbell,Powerlifting,Board Press,"Chest, Forearms, Lats, Shoulders"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/665/Male/l/665_1.jpg,Compound,Barbell,Powerlifting,Box Squat,"Adductors, Calves, Glutes, Hamstrings, Lower Back"
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/666/Male/l/666_1.jpg,Compound,Barbell,Powerlifting,Box Squat with Bands,"Abductors, Adductors, Calves, Glutes, Hamstrings, Lower Back"
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/733/Male/l/733_1.jpg,Isolation,Other,Powerlifting,Chain Handle Extension,
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/734/Male/l/734_1.jpg,Compound,Other,Powerlifting,Chain Press,"Shoulders, Triceps"
+Lower Back,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/677/Male/l/677_1.jpg,Compound,Barbell,Powerlifting,Deadlift with Bands,"Forearms, Glutes, Hamstrings, Middle Back, Quadriceps, Traps"
+Lower Back,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/678/Male/l/678_1.jpg,Compound,Barbell,Powerlifting,Deadlift with Chains,"Forearms, Glutes, Hamstrings, Middle Back, Quadriceps, Traps"
+Lower Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/679/Male/l/679_1.jpg,Compound,Barbell,Powerlifting,Deficit Deadlift,"Forearms, Glutes, Hamstrings, Middle Back, Quadriceps, Traps"
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/680/Male/l/680_1.jpg,Compound,Dumbbell,Powerlifting,Dumbbell Floor Press,"Chest, Shoulders"
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/683/Male/l/683_1.jpg,Compound,Barbell,Powerlifting,Floor Press,"Chest, Shoulders"
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/735/Male/l/735_1.jpg,Compound,Barbell,Powerlifting,Floor Press with Chains,"Chest, Shoulders"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/685/Male/l/685_1.jpg,Compound,Machine,Powerlifting,Glute Ham Raise,"Calves, Glutes"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/686/Male/l/686_1.jpg,Compound,Barbell,Powerlifting,Good Morning,"Abdominals, Glutes, Lower Back"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/687/Male/l/687_1.jpg,Compound,Barbell,Powerlifting,Good Morning off Pins,"Abdominals, Glutes, Lower Back"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/692/Male/l/692_1.jpg,Compound,Barbell,Powerlifting,Hanging Bar Good Morning,"Abdominals, Glutes, Lower Back"
+Glutes,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/738/Male/l/738_1.jpg,Compound,Bands,Powerlifting,Hip Lift with Band,"Calves, Hamstrings"
+Glutes,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/697/Male/l/697_1.jpg,Compound,Barbell,Powerlifting,Kneeling Squat,"Abdominals, Hamstrings, Lower Back"
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/701/Male/l/701_1.jpg,Compound,Barbell,Powerlifting,Pin Presses,"Chest, Forearms, Lats, Middle Back, Shoulders"
+Lower Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/741/Male/l/741_1.jpg,Compound,Barbell,Powerlifting,Rack Pull with Bands,"Forearms, Glutes, Hamstrings, Quadriceps, Traps"
+Lower Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/710/Male/l/710_1.jpg,Compound,Barbell,Powerlifting,Rack Pulls,"Forearms, Glutes, Hamstrings, Traps"
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/752/Male/l/752_1.jpg,Compound,Barbell,Powerlifting,Reverse Band Bench Press,"Chest, Forearms, Lats, Middle Back, Shoulders"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/753/Male/l/753_1.jpg,Compound,Barbell,Powerlifting,Reverse Band Box Squat,"Abductors, Adductors, Calves, Forearms, Glutes, Hamstrings, Lower Back"
+Lower Back,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/756/Male/l/756_1.jpg,Compound,Barbell,Powerlifting,Reverse Band Deadlift,"Abductors, Adductors, Calves, Glutes, Hamstrings, Quadriceps"
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/757/Male/l/757_1.jpg,Compound,Barbell,Powerlifting,Reverse Band Power Squat,"Adductors, Calves, Glutes, Hamstrings, Lower Back"
+Hamstrings,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/758/Male/l/758_1.jpg,Compound,Barbell,Powerlifting,Reverse Band Sumo Deadlift,"Abductors, Adductors, Calves, Forearms, Glutes, Lower Back, Quadriceps, Traps"
+Lower Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/712/Male/l/712_1.jpg,Compound,Barbell,Powerlifting,Seated Good Mornings,Glutes
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1241/Male/l/1241_1.jpg,Compound,Barbell,Powerlifting,Speed Box Squat,"Calves, Glutes, Hamstrings"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/704/Male/l/704_1.jpg,Compound,Barbell,Powerlifting,Squat with Bands,"Adductors, Calves, Glutes, Hamstrings, Lower Back"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/705/Male/l/705_1.jpg,Compound,Barbell,Powerlifting,Squat with Chains,"Adductors, Calves, Glutes, Hamstrings, Lower Back"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/722/Male/l/722_1.jpg,Compound,Barbell,Powerlifting,Sumo Deadlift,"Adductors, Forearms, Glutes, Lower Back, Middle Back, Quadriceps, Traps"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/723/Male/l/723_1.jpg,Compound,Barbell,Powerlifting,Sumo Deadlift with Bands,"Adductors, Forearms, Glutes, Lower Back, Middle Back, Quadriceps, Traps"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/724/Male/l/724_1.jpg,Compound,Barbell,Powerlifting,Sumo Deadlift with Chains,"Abductors, Adductors, Forearms, Glutes, Lower Back, Middle Back, Quadriceps, Traps"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2001/Male/l/2001_1.jpg,Compound,Body Only,Strength,3/4 Sit-Up,
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/225/Male/l/225_1.jpg,Isolation,Machine,Strength,Ab Crunch Machine,
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/110/Male/l/110_1.jpg,Compound,Other,Strength,Ab Roller,Shoulders
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/502/Male/l/502_1.jpg,Isolation,Kettlebells,Strength,Advanced Kettlebell Windmill,"Glutes, Hamstrings, Shoulders"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/209/Male/l/209_1.jpg,Compound,Body Only,Strength,Air Bike,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/158/Male/l/158_1.jpg,Isolation,Dumbbell,Strength,Alternate Hammer Curl,Forearms
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/105/Male/l/105_1.jpg,Isolation,Body Only,Strength,Alternate Heel Touchers,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/125/Male/l/125_1.jpg,Isolation,Dumbbell,Strength,Alternate Incline Dumbbell Curl,Forearms
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1781/Male/l/1781_1.jpg,Compound,Cable,Strength,Alternating Cable Shoulder Press,Triceps
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/880/Male/l/880_1.jpg,Isolation,Dumbbell,Strength,Alternating Deltoid Raise,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/534/Male/l/534_1.jpg,Compound,Kettlebells,Strength,Alternating Floor Press,"Abdominals, Shoulders, Triceps"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/544/Male/l/544_1.jpg,Compound,Kettlebells,Strength,Alternating Hang Clean,"Biceps, Calves, Forearms, Glutes, Lower Back, Traps"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/504/Male/l/504_1.jpg,Compound,Kettlebells,Strength,Alternating Kettlebell Press,Triceps
+Middle Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/505/Male/l/505_1.jpg,Isolation,Kettlebells,Strength,Alternating Kettlebell Row,"Biceps, Lats"
+Middle Back,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/506/Male/l/506_1.jpg,Compound,Kettlebells,Strength,Alternating Renegade Row,"Abdominals, Biceps, Chest, Lats, Triceps"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1811/Male/l/1811_1.jpg,Compound,Barbell,Strength,Anti-Gravity Press,"Middle Back, Traps, Triceps"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/82/Male/l/82_1.jpg,Compound,Dumbbell,Strength,Arnold Dumbbell Press,Triceps
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/277/Male/l/277_1.jpg,Compound,Dumbbell,Strength,Around The Worlds,Shoulders
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/253/Male/l/253_1.jpg,Compound,Bands,Strength,Back Flyes - With Bands,"Middle Back, Triceps"
+Calves,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/263/Male/l/263_1.jpg,Compound,Other,Strength,Balance Board,"Hamstrings, Quadriceps"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/861/Male/l/861_1.jpg,Isolation,Exercise Ball,Strength,Ball Leg Curl,"Calves, Glutes"
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/849/Male/l/849_1.jpg,Compound,Other,Strength,Band Assisted Pull-Up,"Abdominals, Forearms, Middle Back"
+Adductors,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/850/Male/l/850_1.jpg,Isolation,Bands,Strength,Band Hip Adductions,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1351/Male/l/1351_1.jpg,Isolation,Bands,Strength,Band Pull Apart,"Middle Back, Traps"
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1211/Male/l/1211_1.jpg,Isolation,Bands,Strength,Band Skull Crusher,
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/207/Male/l/207_1.jpg,Compound,Barbell,Strength,Barbell Ab Rollout,"Lower Back, Shoulders"
+Abdominals,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/206/Male/l/206_1.jpg,Compound,Barbell,Strength,Barbell Ab Rollout - On Knees,"Lower Back, Shoulders"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/360/Male/l/360_1.jpg,Compound,Barbell,Strength,Barbell Bench Press - Medium Grip,"Shoulders, Triceps"
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/169/Male/l/169_1.jpg,Isolation,Barbell,Strength,Barbell Curl,Forearms
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/300/Male/l/300_1.jpg,Isolation,Barbell,Strength,Barbell Curls Lying Against An Incline,
+Lower Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/112/Male/l/112_1.jpg,Compound,Barbell,Strength,Barbell Deadlift,"Calves, Forearms, Glutes, Hamstrings, Lats, Middle Back, Quadriceps, Traps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/64/Male/l/64_1.jpg,Compound,Barbell,Strength,Barbell Full Squat,"Calves, Glutes, Hamstrings, Lower Back"
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/305/Male/l/305_1.jpg,Compound,Barbell,Strength,Barbell Guillotine Bench Press,"Shoulders, Triceps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/84/Male/l/84_1.jpg,Compound,Barbell,Strength,Barbell Hack Squat,"Calves, Forearms, Hamstrings"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/369/Male/l/369_1.jpg,Compound,Barbell,Strength,Barbell Incline Bench Press - Medium Grip,"Shoulders, Triceps"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/306/Male/l/306_1.jpg,Compound,Barbell,Strength,Barbell Incline Shoulder Raise,Chest
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/41/Male/l/41_1.jpg,Compound,Barbell,Strength,Barbell Lunge,"Calves, Glutes, Hamstrings"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/307/Male/l/307_1.jpg,Compound,Barbell,Strength,Barbell Rear Delt Row,"Biceps, Lats, Middle Back"
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1961/Male/l/1961_1.jpg,Compound,Barbell,Strength,Barbell Rollout from Bench,"Glutes, Hamstrings, Lats, Shoulders"
+Calves,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/176/Male/l/176_1.jpg,Isolation,Barbell,Strength,Barbell Seated Calf Raise,
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/308/Male/l/308_1.jpg,Compound,Barbell,Strength,Barbell Shoulder Press,"Chest, Triceps"
+Traps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/97/Male/l/97_1.jpg,Isolation,Barbell,Strength,Barbell Shrug,
+Traps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/216/Male/l/216_1.jpg,Isolation,Barbell,Strength,Barbell Shrug Behind The Back,"Forearms, Middle Back"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/87/Male/l/87_1.jpg,Isolation,Barbell,Strength,Barbell Side Bend,Lower Back
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/310/Male/l/310_1.jpg,Compound,Barbell,Strength,Barbell Side Split Squat,"Calves, Hamstrings, Lower Back"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/31/Male/l/31_1.jpg,Compound,Barbell,Strength,Barbell Squat,"Calves, Glutes, Hamstrings, Lower Back"
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/58/Male/l/58_1.jpg,Compound,Barbell,Strength,Barbell Squat To A Bench,"Calves, Glutes, Hamstrings, Lower Back"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/62/Male/l/62_1.jpg,Compound,Barbell,Strength,Barbell Step Ups,"Calves, Glutes, Hamstrings, Quadriceps"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2241/Male/l/2241_1.jpg,Compound,Barbell,Strength,Barbell Walking Lunge,"Calves, Glutes, Hamstrings"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1711/Male/l/1711_1.jpg,Compound,Other,Strength,Battling Ropes,"Chest, Forearms"
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/344/Male/l/344_1.jpg,Compound,Body Only,Strength,Bench Dips,"Chest, Shoulders"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/254/Male/l/254_1.jpg,Compound,Bands,Strength,Bench Press - With Bands,"Shoulders, Triceps"
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/20/Male/l/20_1.jpg,Compound,Barbell,Strength,Bent Over Barbell Row,"Biceps, Lats, Shoulders"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/83/Male/l/83_1.jpg,Isolation,Dumbbell,Strength,Bent Over Dumbbell Rear Delt Raise With Head On Bench,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/73/Male/l/73_1.jpg,Isolation,Cable,Strength,Bent Over Low-Pulley Side Lateral,"Lower Back, Middle Back, Traps"
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/19/Male/l/19_1.jpg,Compound,Barbell,Strength,Bent Over One-Arm Long Bar Row,"Biceps, Lats, Lower Back, Traps"
+Middle Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/18/Male/l/18_1.jpg,Compound,Barbell,Strength,Bent Over Two-Arm Long Bar Row,"Biceps, Lats"
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/16/Male/l/16_1.jpg,Compound,Dumbbell,Strength,Bent Over Two-Dumbbell Row,"Biceps, Lats, Shoulders"
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/17/Male/l/17_1.jpg,Compound,Dumbbell,Strength,Bent Over Two-Dumbbell Row With Palms In,"Biceps, Lats"
+Abdominals,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/196/Male/l/196_1.jpg,Compound,Kettlebells,Strength,Bent Press,"Glutes, Hamstrings, Lower Back, Quadriceps, Shoulders, Triceps"
+Lats,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/49/Male/l/49_1.jpg,Compound,Barbell,Strength,Bent-Arm Barbell Pullover,"Chest, Lats, Shoulders, Triceps"
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/40/Male/l/40_1.jpg,Compound,Dumbbell,Strength,Bent-Arm Dumbbell Pullover,"Lats, Shoulders, Triceps"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/118/Male/l/118_1.jpg,Compound,Body Only,Strength,Bent-Knee Hip Raise,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1291/Male/l/1291_1.jpg,Isolation,Body Only,Strength,Body Tricep Press,
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1651/Male/l/1651_1.jpg,Isolation,Body Only,Strength,Body-Up,"Abdominals, Forearms"
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1561/Male/l/1561_1.jpg,Isolation,E-Z Curl Bar,Strength,Bodyweight Flyes,"Abdominals, Shoulders, Triceps"
+Middle Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1911/Male/l/1911_1.jpg,Compound,Other,Strength,Bodyweight Mid Row,"Biceps, Lats"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/855/Male/l/855_1.jpg,Compound,Body Only,Strength,Bodyweight Squat,"Glutes, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2161/Male/l/2161_1.jpg,Compound,None,Strength,Bodyweight Walking Lunge,"Calves, Glutes, Hamstrings"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/932/Male/l/932_1.jpg,Isolation,Cable,Strength,Bosu Ball Cable Crunch With Side Bends,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2021/Male/l/2021_1.jpg,Compound,Body Only,Strength,Bottoms Up,
+Forearms,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/507/Male/l/507_1.jpg,Compound,Kettlebells,Strength,Bottoms-Up Clean From The Hang Position,"Biceps, Shoulders"
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/667/Male/l/667_1.jpg,Compound,Barbell,Strength,Box Squat with Chains,"Abductors, Adductors, Calves, Glutes, Hamstrings, Lower Back"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/291/Male/l/291_1.jpg,Compound,Barbell,Strength,Bradford/Rocky Presses,Triceps
+Glutes,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/99/Male/l/99_1.jpg,Isolation,Body Only,Strength,Butt Lift (Bridge),Hamstrings
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/127/Male/l/127_1.jpg,Compound,Body Only,Strength,Butt-Ups,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/214/Male/l/214_1.jpg,Isolation,Machine,Strength,Butterfly,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/870/Male/l/870_1.jpg,Compound,Cable,Strength,Cable Chest Press,"Shoulders, Triceps"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/132/Male/l/132_1.jpg,Isolation,Cable,Strength,Cable Crossover,Shoulders
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/163/Male/l/163_1.jpg,Isolation,Cable,Strength,Cable Crunch,
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/860/Male/l/860_1.jpg,Compound,Cable,Strength,Cable Deadlifts,"Forearms, Glutes, Hamstrings, Lower Back"
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/189/Male/l/189_1.jpg,Isolation,Cable,Strength,Cable Hammer Curls - Rope Attachment,
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/312/Male/l/312_1.jpg,Isolation,Cable,Strength,Cable Hip Adduction,
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/313/Male/l/313_1.jpg,Isolation,Cable,Strength,Cable Incline Pushdown,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/314/Male/l/314_1.jpg,Isolation,Cable,Strength,Cable Incline Triceps Extension,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/315/Male/l/315_1.jpg,Compound,Cable,Strength,Cable Internal Rotation,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2111/Male/l/2111_1.jpg,Isolation,Cable,Strength,Cable Iron Cross,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/939/Male/l/939_1.jpg,Compound,Cable,Strength,Cable Judo Flip,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/161/Male/l/161_1.jpg,Isolation,Cable,Strength,Cable Lying Triceps Extension,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/80/Male/l/80_1.jpg,Isolation,Cable,Strength,Cable One Arm Tricep Extension,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/221/Male/l/221_1.jpg,Isolation,Cable,Strength,Cable Preacher Curl,Forearms
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/867/Male/l/867_1.jpg,Isolation,Cable,Strength,Cable Rear Delt Fly,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/938/Male/l/938_1.jpg,Isolation,Cable,Strength,Cable Reverse Crunch,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/220/Male/l/220_1.jpg,Isolation,Cable,Strength,Cable Rope Overhead Triceps Extension,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/299/Male/l/299_1.jpg,Compound,Cable,Strength,Cable Rope Rear-Delt Rows,"Biceps, Middle Back"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/940/Male/l/940_1.jpg,Compound,Cable,Strength,Cable Russian Twists,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/316/Male/l/316_1.jpg,Isolation,Cable,Strength,Cable Seated Crunch,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/79/Male/l/79_1.jpg,Isolation,Cable,Strength,Cable Seated Lateral Raise,"Middle Back, Traps"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/848/Male/l/848_1.jpg,Compound,Cable,Strength,Cable Shoulder Press,Triceps
+Traps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/133/Male/l/133_1.jpg,Isolation,Cable,Strength,Cable Shrugs,
+Forearms,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/317/Male/l/317_1.jpg,Isolation,Cable,Strength,Cable Wrist Curl,
+Calves,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/862/Male/l/862_1.jpg,Isolation,Machine,Strength,Calf Press,
+Calves,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/215/Male/l/215_1.jpg,Isolation,Machine,Strength,Calf Press On The Leg Press Machine,
+Calves,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/242/Male/l/242_1.jpg,Isolation,Dumbbell,Strength,Calf Raise On A Dumbbell,
+Calves,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/256/Male/l/256_1.jpg,Isolation,Bands,Strength,Calf Raises - With Bands,
+Traps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/184/Male/l/184_1.jpg,Isolation,Machine,Strength,Calf-Machine Shoulder Shrug,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1771/Male/l/1771_1.jpg,Isolation,Barbell,Strength,Car Drivers,Forearms
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1821/Male/l/1821_1.jpg,Compound,Machine,Strength,Chair Squat,"Calves, Glutes, Hamstrings"
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/129/Male/l/129_1.jpg,Compound,Body Only,Strength,Chin-Up,"Biceps, Forearms, Middle Back"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/864/Male/l/864_1.jpg,Compound,Barbell,Strength,Clean and Press,"Abdominals, Calves, Glutes, Hamstrings, Lower Back, Middle Back, Quadriceps, Shoulders, Traps, Triceps"
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1581/Male/l/1581_1.jpg,Compound,Body Only,Strength,Clock Push-Up,"Shoulders, Triceps"
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/23/Male/l/23_1.jpg,Compound,Barbell,Strength,Close-Grip Barbell Bench Press,"Chest, Shoulders"
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1611/Male/l/1611_1.jpg,Compound,Dumbbell,Strength,Close-Grip Dumbbell Press,"Chest, Shoulders"
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/238/Male/l/238_1.jpg,Isolation,Barbell,Strength,Close-Grip EZ Bar Curl,Forearms
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1631/Male/l/1631_1.jpg,Isolation,E-Z Curl Bar,Strength,Close-Grip EZ-Bar Curl with Band,Forearms
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1701/Male/l/1701_1.jpg,Compound,E-Z Curl Bar,Strength,Close-Grip EZ-Bar Press,"Chest, Shoulders"
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/14/Male/l/14_1.jpg,Compound,Cable,Strength,Close-Grip Front Lat Pulldown,"Biceps, Middle Back, Shoulders"
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1661/Male/l/1661_1.jpg,Compound,Body Only,Strength,Close-Grip Push-Up off of a Dumbbell,"Abdominals, Chest, Shoulders"
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/276/Male/l/276_1.jpg,Isolation,Barbell,Strength,Close-Grip Standing Barbell Curl,Forearms
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2011/Male/l/2011_1.jpg,Compound,Body Only,Strength,Cocoons,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/136/Male/l/136_1.jpg,Isolation,Dumbbell,Strength,Concentration Curls,Forearms
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/236/Male/l/236_1.jpg,Isolation,Dumbbell,Strength,Cross Body Hammer Curl,Forearms
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/257/Male/l/257_1.jpg,Compound,Bands,Strength,Cross Over - With Bands,"Biceps, Shoulders"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/124/Male/l/124_1.jpg,Compound,Body Only,Strength,Cross-Body Crunch,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/113/Male/l/113_1.jpg,Isolation,Body Only,Strength,Crunch - Hands Overhead,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/116/Male/l/116_1.jpg,Isolation,Body Only,Strength,Crunch - Legs On Exercise Ball,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/102/Male/l/102_1.jpg,Isolation,Body Only,Strength,Crunches,
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/199/Male/l/199_1.jpg,Compound,Dumbbell,Strength,Cuban Press,Traps
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2733/Male/l/2733_1.jpg,Compound,Body Only,Strength,Dead Bug,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/34/Male/l/34_1.jpg,Compound,Barbell,Strength,Decline Barbell Bench Press,"Shoulders, Triceps"
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/288/Male/l/288_1.jpg,Compound,Barbell,Strength,Decline Close-Grip Bench To Skull Crusher,"Chest, Shoulders"
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/193/Male/l/193_1.jpg,Isolation,Body Only,Strength,Decline Crunch,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/51/Male/l/51_1.jpg,Compound,Dumbbell,Strength,Decline Dumbbell Bench Press,"Shoulders, Triceps"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/36/Male/l/36_1.jpg,Compound,Dumbbell,Strength,Decline Dumbbell Flyes,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/167/Male/l/167_1.jpg,Isolation,Dumbbell,Strength,Decline Dumbbell Triceps Extension,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/166/Male/l/166_1.jpg,Isolation,Barbell,Strength,Decline EZ Bar Triceps Extension,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/211/Male/l/211_1.jpg,Compound,Body Only,Strength,Decline Oblique Crunch,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1411/Male/l/1411_1.jpg,Compound,None,Strength,Decline Push-Up,"Shoulders, Triceps"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/194/Male/l/194_1.jpg,Compound,Body Only,Strength,Decline Reverse Crunch,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1601/Male/l/1601_1.jpg,Compound,Machine,Strength,Decline Smith Press,"Shoulders, Triceps"
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/146/Male/l/146_1.jpg,Compound,Machine,Strength,Dip Machine,"Chest, Shoulders"
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/145/Male/l/145_1.jpg,Compound,Other,Strength,Dips - Chest Version,"Shoulders, Triceps"
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/55/Male/l/55_1.jpg,Compound,Body Only,Strength,Dips - Triceps Version,"Chest, Shoulders"
+Calves,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/296/Male/l/296_1.jpg,Isolation,Other,Strength,Donkey Calf Raises,
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/553/Male/l/553_1.jpg,Compound,Kettlebells,Strength,Double Kettlebell Alternating Hang Clean,"Biceps, Calves, Forearms, Glutes, Lower Back, Quadriceps, Traps"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/557/Male/l/557_1.jpg,Compound,Kettlebells,Strength,Double Kettlebell Jerk,"Calves, Quadriceps, Triceps"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/532/Male/l/532_1.jpg,Compound,Kettlebells,Strength,Double Kettlebell Push Press,"Calves, Quadriceps, Triceps"
+Shoulders,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/535/Male/l/535_1.jpg,Compound,Kettlebells,Strength,Double Kettlebell Snatch,"Glutes, Hamstrings, Quadriceps"
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/508/Male/l/508_1.jpg,N/A,Kettlebells,Strength,Double Kettlebell Windmill,"Glutes, Hamstrings, Shoulders, Triceps"
+Glutes,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/422/Male/l/422_1.jpg,Isolation,Exercise Ball,Strength,Downward Facing Balance,"Abdominals, Hamstrings"
+Biceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/174/Male/l/174_1.jpg,Compound,Barbell,Strength,Drag Curl,Forearms
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/234/Male/l/234_1.jpg,Isolation,Dumbbell,Strength,Dumbbell Alternate Bicep Curl,Forearms
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1/Male/l/1_1.jpg,Compound,Dumbbell,Strength,Dumbbell Bench Press,"Shoulders, Triceps"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1161/Male/l/1161_1.jpg,Compound,Dumbbell,Strength,Dumbbell Bench Press with Neutral Grip,"Shoulders, Triceps"
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/223/Male/l/223_1.jpg,Isolation,Dumbbell,Strength,Dumbbell Bicep Curl,Forearms
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2271/Male/l/2271_1.jpg,Compound,Dumbbell,Strength,Dumbbell Clean,"Calves, Forearms, Glutes, Lower Back, Quadriceps, Shoulders, Traps"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/12/Male/l/12_1.jpg,Isolation,Dumbbell,Strength,Dumbbell Flyes,
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1311/Male/l/1311_1.jpg,Compound,Dumbbell,Strength,Dumbbell Incline Row,"Biceps, Forearms, Lats, Shoulders"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/318/Male/l/318_1.jpg,Isolation,Dumbbell,Strength,Dumbbell Incline Shoulder Raise,Triceps
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/32/Male/l/32_1.jpg,Compound,Dumbbell,Strength,Dumbbell Lunges,"Calves, Glutes, Hamstrings"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/319/Male/l/319_1.jpg,Isolation,Dumbbell,Strength,Dumbbell Lying One-Arm Rear Lateral Raise,Middle Back
+Forearms,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/321/Male/l/321_1.jpg,Isolation,Dumbbell,Strength,Dumbbell Lying Pronation,
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/322/Male/l/322_1.jpg,Isolation,Dumbbell,Strength,Dumbbell Lying Rear Lateral Raise,
+Forearms,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/323/Male/l/323_1.jpg,Isolation,Dumbbell,Strength,Dumbbell Lying Supination,
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/337/Male/l/337_1.jpg,Compound,Dumbbell,Strength,Dumbbell One-Arm Shoulder Press,Triceps
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/324/Male/l/324_1.jpg,Isolation,Dumbbell,Strength,Dumbbell One-Arm Triceps Extension,
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/325/Male/l/325_1.jpg,Compound,Dumbbell,Strength,Dumbbell One-Arm Upright Row,"Biceps, Traps"
+Biceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/326/Male/l/326_1.jpg,Isolation,Dumbbell,Strength,Dumbbell Prone Incline Curl,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/327/Male/l/327_1.jpg,Compound,Dumbbell,Strength,Dumbbell Raise,Biceps
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/109/Male/l/109_1.jpg,Compound,Dumbbell,Strength,Dumbbell Rear Lunge,"Calves, Glutes, Hamstrings"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1341/Male/l/1341_1.jpg,Isolation,Dumbbell,Strength,Dumbbell Scaption,Traps
+Calves,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/175/Male/l/175_1.jpg,Isolation,Dumbbell,Strength,Dumbbell Seated One-Leg Calf Raise,
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/328/Male/l/328_1.jpg,Compound,Dumbbell,Strength,Dumbbell Shoulder Press,Triceps
+Traps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/96/Male/l/96_1.jpg,Isolation,Dumbbell,Strength,Dumbbell Shrug,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/88/Male/l/88_1.jpg,Isolation,Dumbbell,Strength,Dumbbell Side Bend,
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/85/Male/l/85_1.jpg,Compound,Dumbbell,Strength,Dumbbell Squat,"Calves, Glutes, Hamstrings, Lower Back"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/61/Male/l/61_1.jpg,Compound,Dumbbell,Strength,Dumbbell Squat To A Bench,"Calves, Glutes, Hamstrings, Lower Back"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/63/Male/l/63_1.jpg,Compound,Dumbbell,Strength,Dumbbell Step Ups,"Calves, Glutes, Hamstrings"
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/866/Male/l/866_1.jpg,Isolation,Dumbbell,Strength,Dumbbell Tricep Extension -Pronated Grip,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2031/Male/l/2031_1.jpg,Compound,Body Only,Strength,Elbow to Knee,
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1171/Male/l/1171_1.jpg,Compound,Barbell,Strength,Elevated Back Lunge,"Glutes, Hamstrings"
+Lats,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/293/Male/l/293_1.jpg,Compound,Cable,Strength,Elevated Cable Rows,"Middle Back, Traps"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/117/Male/l/117_1.jpg,Isolation,Exercise Ball,Strength,Exercise Ball Crunch,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/121/Male/l/121_1.jpg,Compound,Exercise Ball,Strength,Exercise Ball Pull-In,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/510/Male/l/510_1.jpg,Compound,Kettlebells,Strength,Extended Range One-Arm Kettlebell Floor Press,"Shoulders, Triceps"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/232/Male/l/232_1.jpg,Isolation,Dumbbell,Strength,External Rotation,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/868/Male/l/868_1.jpg,Compound,Bands,Strength,External Rotation with Band,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/869/Male/l/869_1.jpg,Isolation,Cable,Strength,External Rotation with Cable,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/210/Male/l/210_1.jpg,Isolation,E-Z Curl Bar,Strength,EZ-Bar Curl,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1641/Male/l/1641_1.jpg,Isolation,E-Z Curl Bar,Strength,EZ-Bar Skullcrusher,Forearms
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/681/Male/l/681_1.jpg,Compound,Cable,Strength,Face Pull,Middle Back
+Forearms,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1681/Male/l/1681_1.jpg,Isolation,Barbell,Strength,Finger Curls,
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/162/Male/l/162_1.jpg,Isolation,Cable,Strength,Flat Bench Cable Flyes,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/94/Male/l/94_1.jpg,Compound,Body Only,Strength,Flat Bench Leg Pull-In,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/90/Male/l/90_1.jpg,Isolation,Body Only,Strength,Flat Bench Lying Leg Raise,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/285/Male/l/285_1.jpg,Isolation,Dumbbell,Strength,Flexor Incline Dumbbell Curls,
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1121/Male/l/1121_1.jpg,Isolation,None,Strength,Floor Glute-Ham Raise,"Calves, Glutes"
+Glutes,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/267/Male/l/267_1.jpg,Compound,Body Only,Strength,Flutter Kicks,Hamstrings
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/108/Male/l/108_1.jpg,Compound,Body Only,Strength,Freehand Jump Squat,"Calves, Glutes, Hamstrings"
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/295/Male/l/295_1.jpg,Isolation,Body Only,Strength,Frog Sit-Ups,
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/42/Male/l/42_1.jpg,Compound,Barbell,Strength,Front Barbell Squat,"Calves, Glutes, Hamstrings"
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/59/Male/l/59_1.jpg,Compound,Barbell,Strength,Front Barbell Squat To A Bench,"Calves, Glutes, Hamstrings"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/75/Male/l/75_1.jpg,Isolation,Cable,Strength,Front Cable Raise,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/371/Male/l/371_1.jpg,Isolation,Dumbbell,Strength,Front Dumbbell Raise,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/231/Male/l/231_1.jpg,Isolation,Dumbbell,Strength,Front Incline Dumbbell Raise,
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/230/Male/l/230_1.jpg,Isolation,Other,Strength,Front Plate Raise,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/273/Male/l/273_1.jpg,Compound,Barbell,Strength,Front Raise And Pullover,"Lats, Shoulders, Triceps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/737/Male/l/737_1.jpg,Compound,Barbell,Strength,Front Squat (Clean Grip),"Abdominals, Glutes, Hamstrings"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/511/Male/l/511_1.jpg,Compound,Kettlebells,Strength,Front Squats With Two Kettlebells,"Calves, Glutes"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/372/Male/l/372_1.jpg,Isolation,Dumbbell,Strength,Front Two-Dumbbell Raise,
+Lats,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/182/Male/l/182_1.jpg,Compound,Cable,Strength,Full Range-Of-Motion Lat Pulldown,"Biceps, Middle Back, Shoulders"
+Lats,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/292/Male/l/292_1.jpg,Compound,Other,Strength,Gironda Sternum Chins,"Biceps, Middle Back"
+Glutes,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/98/Male/l/98_1.jpg,Compound,Body Only,Strength,Glute Kickback,Hamstrings
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/590/Male/l/590_1.jpg,Compound,Kettlebells,Strength,Goblet Squat,"Calves, Glutes, Hamstrings, Shoulders"
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/183/Male/l/183_1.jpg,Compound,Body Only,Strength,Gorilla Chin/Crunch,"Biceps, Lats"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/56/Male/l/56_1.jpg,Compound,Machine,Strength,Hack Squat,"Calves, Glutes, Hamstrings"
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/147/Male/l/147_1.jpg,Isolation,Dumbbell,Strength,Hammer Curls,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/60/Male/l/60_1.jpg,Compound,Dumbbell,Strength,Hammer Grip Incline DB Bench Press,"Shoulders, Triceps"
+Shoulders,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/227/Male/l/227_1.jpg,Compound,Body Only,Strength,Handstand Push-Ups,Triceps
+Abdominals,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/222/Male/l/222_1.jpg,Isolation,Body Only,Strength,Hanging Leg Raise,
+Abdominals,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/233/Male/l/233_1.jpg,Compound,Body Only,Strength,Hanging Pike,
+Biceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/286/Male/l/286_1.jpg,Compound,Cable,Strength,High Cable Curls,
+Glutes,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/877/Male/l/877_1.jpg,Compound,Bands,Strength,Hip Extension with Bands,Hamstrings
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/878/Male/l/878_1.jpg,Compound,Bands,Strength,Hip Flexion with Band,
+Lower Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/47/Male/l/47_1.jpg,Isolation,Other,Strength,Hyperextensions (Back Extensions),"Glutes, Hamstrings"
+Lower Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/24/Male/l/24_1.jpg,Compound,Body Only,Strength,Hyperextensions With No Hyperextension Bench,"Glutes, Hamstrings"
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/347/Male/l/347_1.jpg,Isolation,Barbell,Strength,Incline Barbell Triceps Extension,Forearms
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/278/Male/l/278_1.jpg,Isolation,Barbell,Strength,Incline Bench Pull,"Lats, Shoulders"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1591/Male/l/1591_1.jpg,Compound,Cable,Strength,Incline Cable Chest Press,"Shoulders, Triceps"
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/181/Male/l/181_1.jpg,Isolation,Cable,Strength,Incline Cable Flye,Shoulders
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/37/Male/l/37_1.jpg,Compound,Dumbbell,Strength,Incline Dumbbell Bench With Palms Facing In,"Shoulders, Triceps"
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/114/Male/l/114_1.jpg,Isolation,Dumbbell,Strength,Incline Dumbbell Curl,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/38/Male/l/38_1.jpg,Compound,Dumbbell,Strength,Incline Dumbbell Flyes,Shoulders
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/50/Male/l/50_1.jpg,Compound,Dumbbell,Strength,Incline Dumbbell Flyes - With A Twist,Shoulders
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/380/Male/l/380_1.jpg,Compound,Dumbbell,Strength,Incline Dumbbell Press,"Shoulders, Triceps"
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/882/Male/l/882_1.jpg,Isolation,Dumbbell,Strength,Incline Hammer Curls,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/338/Male/l/338_1.jpg,Isolation,Dumbbell,Strength,Incline Inner Biceps Curl,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/883/Male/l/883_1.jpg,Compound,Body Only,Strength,Incline Push-Up,"Shoulders, Triceps"
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1551/Male/l/1551_1.jpg,Compound,Body Only,Strength,Incline Push-Up Close-Grip,"Chest, Shoulders"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1531/Male/l/1531_1.jpg,Compound,Body Only,Strength,Incline Push-Up Medium,"Abdominals, Shoulders, Triceps"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1541/Male/l/1541_1.jpg,Compound,Body Only,Strength,Incline Push-Up Reverse Grip,"Abdominals, Shoulders, Triceps"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1521/Male/l/1521_1.jpg,Compound,Body Only,Strength,Incline Push-Up Wide,"Abdominals, Shoulders, Triceps"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/884/Male/l/884_1.jpg,Isolation,Bands,Strength,Internal Rotation with Band,
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/879/Male/l/879_1.jpg,Compound,None,Strength,Inverted Row,Lats
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/886/Male/l/886_1.jpg,Compound,Other,Strength,Inverted Row with Straps,"Biceps, Lats"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/195/Male/l/195_1.jpg,Compound,Dumbbell,Strength,Iron Cross,"Chest, Glutes, Hamstrings, Lower Back, Quadriceps, Traps"
+Neck,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/27/Male/l/27_1.jpg,Isolation,Body Only,Strength,Isometric Neck Exercise - Front And Back,
+Neck,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/28/Male/l/28_1.jpg,Isolation,Body Only,Strength,Isometric Neck Exercise - Sides,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1571/Male/l/1571_1.jpg,Compound,Body Only,Strength,Isometric Wipers,"Abdominals, Shoulders, Triceps"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/91/Male/l/91_1.jpg,Compound,Body Only,Strength,Jackknife Sit-Up,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/202/Male/l/202_1.jpg,Isolation,Body Only,Strength,Janda Sit-Up,
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/283/Male/l/283_1.jpg,Compound,Barbell,Strength,Jefferson Squats,"Calves, Glutes, Hamstrings, Lower Back, Traps"
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/304/Male/l/304_1.jpg,Compound,Barbell,Strength,JM Press,"Chest, Shoulders"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/512/Male/l/512_1.jpg,Compound,Kettlebells,Strength,Kettlebell Arnold Press,Triceps
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/549/Male/l/549_1.jpg,Compound,Kettlebells,Strength,Kettlebell Dead Clean,"Calves, Glutes, Lower Back, Quadriceps, Traps"
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/548/Male/l/548_1.jpg,N/A,Kettlebells,Strength,Kettlebell Figure 8,"Hamstrings, Shoulders"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/551/Male/l/551_1.jpg,Compound,Kettlebells,Strength,Kettlebell Hang Clean,"Calves, Glutes, Lower Back, Shoulders, Traps"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/546/Male/l/546_1.jpg,Compound,Kettlebells,Strength,Kettlebell One-Legged Deadlift,"Glutes, Lower Back"
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/524/Male/l/524_1.jpg,Compound,Kettlebells,Strength,Kettlebell Pass Between The Legs,"Glutes, Hamstrings, Shoulders"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1731/Male/l/1731_1.jpg,Compound,Kettlebells,Strength,Kettlebell Pirate Ships,Abdominals
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/521/Male/l/521_1.jpg,Compound,Kettlebells,Strength,Kettlebell Pistol Squat,"Calves, Glutes, Hamstrings, Shoulders"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/555/Male/l/555_1.jpg,Compound,Kettlebells,Strength,Kettlebell Seated Press,Triceps
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/558/Male/l/558_1.jpg,Compound,Kettlebells,Strength,Kettlebell Seesaw Press,Triceps
+Traps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/645/Male/l/645_1.jpg,Compound,Kettlebells,Strength,Kettlebell Sumo High Pull,"Adductors, Glutes, Hamstrings, Quadriceps, Shoulders"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/641/Male/l/641_1.jpg,Compound,Kettlebells,Strength,Kettlebell Thruster,"Quadriceps, Triceps"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/526/Male/l/526_1.jpg,Compound,Kettlebells,Strength,Kettlebell Turkish Get-Up (Lunge style),"Abdominals, Hamstrings, Quadriceps, Triceps"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/527/Male/l/527_1.jpg,Compound,Kettlebells,Strength,Kettlebell Turkish Get-Up (Squat style),"Abdominals, Calves, Hamstrings, Quadriceps, Triceps"
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/533/Male/l/533_1.jpg,Compound,Kettlebells,Strength,Kettlebell Windmill,"Glutes, Hamstrings, Shoulders, Triceps"
+Lats,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1471/Male/l/1471_1.jpg,Compound,Other,Strength,Kipping Muscle Up,"Abdominals, Biceps, Forearms, Middle Back, Shoulders, Traps, Triceps"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/340/Male/l/340_1.jpg,Isolation,Other,Strength,Knee/Hip Raise On Parallel Bars,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/937/Male/l/937_1.jpg,Isolation,Cable,Strength,Kneeling Cable Crunch With Alternating Oblique Twists,
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/150/Male/l/150_1.jpg,Isolation,Cable,Strength,Kneeling Cable Triceps Extension,
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1921/Male/l/1921_1.jpg,Compound,Cable,Strength,Kneeling High Pulley Row,"Biceps, Middle Back"
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1991/Male/l/1991_1.jpg,Compound,Cable,Strength,Kneeling Single-Arm High Pulley Row,"Biceps, Middle Back"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1751/Male/l/1751_1.jpg,Compound,Barbell,Strength,Landmine 180's,"Glutes, Lower Back, Shoulders"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1181/Male/l/1181_1.jpg,Compound,Barbell,Strength,Landmine Linear Jammer,"Abdominals, Calves, Chest, Hamstrings, Quadriceps, Triceps"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/258/Male/l/258_1.jpg,Isolation,Bands,Strength,Lateral Raise - With Bands,
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/53/Male/l/53_1.jpg,Isolation,Machine,Strength,Leg Extensions,
+Glutes,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/100/Male/l/100_1.jpg,Isolation,Body Only,Strength,Leg Lift,Hamstrings
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/57/Male/l/57_1.jpg,Compound,Machine,Strength,Leg Press,"Calves, Glutes, Hamstrings"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/95/Male/l/95_1.jpg,Compound,Body Only,Strength,Leg Pull-In,
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/543/Male/l/543_1.jpg,Compound,Kettlebells,Strength,Leg-Over Floor Press,"Shoulders, Triceps"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/889/Male/l/889_1.jpg,Compound,Machine,Strength,Leverage Chest Press,"Shoulders, Triceps"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/890/Male/l/890_1.jpg,Compound,Machine,Strength,Leverage Deadlift,"Glutes, Hamstrings"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/891/Male/l/891_1.jpg,Compound,Machine,Strength,Leverage Decline Chest Press,"Shoulders, Triceps"
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/892/Male/l/892_1.jpg,Compound,Machine,Strength,Leverage High Row,Lats
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/893/Male/l/893_1.jpg,Compound,Machine,Strength,Leverage Incline Chest Press,"Shoulders, Triceps"
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/894/Male/l/894_1.jpg,Compound,Machine,Strength,Leverage Iso Row,"Biceps, Middle Back"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/897/Male/l/897_1.jpg,Compound,Machine,Strength,Leverage Shoulder Press,Triceps
+Traps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/898/Male/l/898_1.jpg,Isolation,Machine,Strength,Leverage Shrug,Forearms
+Lats,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1981/Male/l/1981_1.jpg,Compound,Other,Strength,London Bridges,"Biceps, Forearms, Middle Back"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1621/Male/l/1621_1.jpg,Isolation,Cable,Strength,Low Cable Crossover,Shoulders
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/157/Male/l/157_1.jpg,Isolation,Cable,Strength,Low Cable Triceps Extension,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/156/Male/l/156_1.jpg,Compound,Cable,Strength,Low Pulley Row To Neck,"Biceps, Middle Back, Traps"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1851/Male/l/1851_1.jpg,Compound,Kettlebells,Strength,Lunge Pass Through,"Calves, Glutes, Quadriceps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1861/Male/l/1861_1.jpg,Compound,Machine,Strength,Lunge Sprint,"Calves, Glutes, Hamstrings"
+Biceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/144/Male/l/144_1.jpg,Isolation,Cable,Strength,Lying Cable Curl,
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/302/Male/l/302_1.jpg,Isolation,Barbell,Strength,Lying Cambered Barbell Row,"Biceps, Lats, Traps"
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/331/Male/l/331_1.jpg,Isolation,Cable,Strength,Lying Close-Grip Bar Curl On High Pulley,
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/357/Male/l/357_1.jpg,Isolation,Barbell,Strength,Lying Close-Grip Barbell Triceps Extension Behind The Head,
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/356/Male/l/356_1.jpg,Isolation,E-Z Curl Bar,Strength,Lying Close-Grip Barbell Triceps Press To Chin,
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/229/Male/l/229_1.jpg,Isolation,Dumbbell,Strength,Lying Dumbbell Tricep Extension,"Chest, Shoulders"
+Neck,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/25/Male/l/25_1.jpg,Isolation,Other,Strength,Lying Face Down Plate Neck Resistance,
+Neck,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/26/Male/l/26_1.jpg,Isolation,Other,Strength,Lying Face Up Plate Neck Resistance,
+Biceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/298/Male/l/298_1.jpg,Isolation,Barbell,Strength,Lying High Bench Barbell Curl,
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/52/Male/l/52_1.jpg,Isolation,Machine,Strength,Lying Leg Curls,
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/66/Male/l/66_1.jpg,Compound,Machine,Strength,Lying Machine Squat,"Calves, Glutes, Hamstrings"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/165/Male/l/165_1.jpg,Isolation,Dumbbell,Strength,Lying One-Arm Lateral Raise,
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/376/Male/l/376_1.jpg,Isolation,Dumbbell,Strength,Lying Rear Delt Raise,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/212/Male/l/212_1.jpg,Isolation,Dumbbell,Strength,Lying Supine Dumbbell Curl,
+Middle Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/137/Male/l/137_1.jpg,Compound,Machine,Strength,Lying T-Bar Row,"Biceps, Lats"
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/342/Male/l/342_1.jpg,Isolation,E-Z Curl Bar,Strength,Lying Triceps Press,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/224/Male/l/224_1.jpg,Compound,Machine,Strength,Machine Bench Press,"Shoulders, Triceps"
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/899/Male/l/899_1.jpg,Isolation,Machine,Strength,Machine Bicep Curl,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/148/Male/l/148_1.jpg,Isolation,Machine,Strength,Machine Preacher Curls,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/74/Male/l/74_1.jpg,Compound,Machine,Strength,Machine Shoulder (Military) Press,Triceps
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/901/Male/l/901_1.jpg,Isolation,Machine,Strength,Machine Triceps Extension,
+Middle Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/172/Male/l/172_1.jpg,Isolation,Dumbbell,Strength,Middle Back Shrug,
+Middle Back,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/281/Male/l/281_1.jpg,Compound,Other,Strength,Mixed Grip Chin,"Biceps, Lats"
+Abductors,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/903/Male/l/903_1.jpg,Compound,Bands,Strength,Monster Walk,
+Lats,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1501/Male/l/1501_1.jpg,Compound,Other,Strength,Muscle Up,"Abdominals, Biceps, Forearms, Middle Back, Shoulders, Traps, Triceps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/271/Male/l/271_1.jpg,Compound,Machine,Strength,Narrow Stance Hack Squats,"Calves, Glutes, Hamstrings"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/272/Male/l/272_1.jpg,Compound,Machine,Strength,Narrow Stance Leg Press,"Calves, Glutes, Hamstrings"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/269/Male/l/269_1.jpg,Compound,Barbell,Strength,Narrow Stance Squats,"Calves, Glutes, Hamstrings, Lower Back"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/847/Male/l/847_1.jpg,Compound,Body Only,Strength,Natural Glute Ham Raise,"Calves, Glutes, Lower Back"
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/274/Male/l/274_1.jpg,Compound,Barbell,Strength,Neck Press,"Shoulders, Triceps"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/104/Male/l/104_1.jpg,Isolation,Body Only,Strength,Oblique Crunches,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/122/Male/l/122_1.jpg,Isolation,Body Only,Strength,Oblique Crunches - On The Floor,
+Middle Back,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/282/Male/l/282_1.jpg,Compound,Other,Strength,One Arm Chin-Up,"Biceps, Forearms, Lats"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/246/Male/l/246_1.jpg,Compound,Dumbbell,Strength,One Arm Dumbbell Bench Press,"Shoulders, Triceps"
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/255/Male/l/255_1.jpg,Isolation,Dumbbell,Strength,One Arm Dumbbell Preacher Curl,
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/241/Male/l/241_1.jpg,Compound,Barbell,Strength,One Arm Floor Press,"Chest, Shoulders"
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/904/Male/l/904_1.jpg,Compound,Cable,Strength,One Arm Lat Pulldown,"Biceps, Middle Back"
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/361/Male/l/361_1.jpg,Isolation,Dumbbell,Strength,One Arm Pronated Dumbbell Triceps Extension,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/362/Male/l/362_1.jpg,Isolation,Dumbbell,Strength,One Arm Supinated Dumbbell Triceps Extension,
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/111/Male/l/111_1.jpg,Compound,Barbell,Strength,One Leg Barbell Squat,"Calves, Glutes, Hamstrings"
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/13/Male/l/13_1.jpg,Compound,Dumbbell,Strength,One-Arm Dumbbell Row,"Biceps, Lats, Shoulders"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/164/Male/l/164_1.jpg,Isolation,Dumbbell,Strength,One-Arm Flat Bench Dumbbell Flye,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/933/Male/l/933_1.jpg,Isolation,Cable,Strength,One-Arm High-Pulley Cable Side Bends,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/170/Male/l/170_1.jpg,Isolation,Dumbbell,Strength,One-Arm Incline Lateral Raise,
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/513/Male/l/513_1.jpg,Compound,Kettlebells,Strength,One-Arm Kettlebell Clean,"Glutes, Lower Back, Shoulders, Traps"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/643/Male/l/643_1.jpg,Compound,Kettlebells,Strength,One-Arm Kettlebell Clean and Jerk,
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/515/Male/l/515_1.jpg,Compound,Kettlebells,Strength,One-Arm Kettlebell Floor Press,Triceps
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/514/Male/l/514_1.jpg,Compound,Kettlebells,Strength,One-Arm Kettlebell Jerk,"Calves, Quadriceps, Triceps"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/517/Male/l/517_1.jpg,Compound,Kettlebells,Strength,One-Arm Kettlebell Military Press To The Side,Triceps
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/523/Male/l/523_1.jpg,Compound,Kettlebells,Strength,One-Arm Kettlebell Para Press,Triceps
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/519/Male/l/519_1.jpg,Compound,Kettlebells,Strength,One-Arm Kettlebell Push Press,"Calves, Quadriceps, Triceps"
+Middle Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/516/Male/l/516_1.jpg,Compound,Kettlebells,Strength,One-Arm Kettlebell Row,"Biceps, Lats"
+Shoulders,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/520/Male/l/520_1.jpg,Compound,Kettlebells,Strength,One-Arm Kettlebell Snatch,"Calves, Glutes, Hamstrings, Lower Back, Traps, Triceps"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/540/Male/l/540_1.jpg,Compound,Kettlebells,Strength,One-Arm Kettlebell Split Jerk,"Glutes, Hamstrings, Quadriceps, Triceps"
+Shoulders,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/537/Male/l/537_1.jpg,Compound,Kettlebells,Strength,One-Arm Kettlebell Split Snatch,"Hamstrings, Quadriceps"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/518/Male/l/518_1.jpg,Compound,Kettlebells,Strength,One-Arm Kettlebell Swings,"Calves, Glutes, Lower Back, Shoulders"
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1941/Male/l/1941_1.jpg,Compound,Barbell,Strength,One-Arm Long Bar Row,"Biceps, Lats"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2081/Male/l/2081_1.jpg,Compound,Medicine Ball,Strength,One-Arm Medicine Ball Slam,"Lats, Shoulders"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/541/Male/l/541_1.jpg,Compound,Kettlebells,Strength,One-Arm Open Palm Kettlebell Clean,"Forearms, Glutes, Lower Back, Quadriceps, Shoulders"
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/522/Male/l/522_1.jpg,Compound,Kettlebells,Strength,One-Arm Overhead Kettlebell Squats,"Calves, Glutes, Hamstrings, Shoulders"
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/198/Male/l/198_1.jpg,Compound,Barbell,Strength,One-Arm Side Deadlift,"Abdominals, Calves, Glutes, Hamstrings, Lower Back, Traps"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/173/Male/l/173_1.jpg,Isolation,Dumbbell,Strength,One-Arm Side Laterals,
+Glutes,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/101/Male/l/101_1.jpg,Isolation,Cable,Strength,One-Legged Cable Kickback,Hamstrings
+Hamstrings,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/539/Male/l/539_1.jpg,Compound,Kettlebells,Strength,Open Palm Kettlebell Clean,"Glutes, Lower Back, Quadriceps, Shoulders"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2071/Male/l/2071_1.jpg,Compound,Other,Strength,Otis-Up,"Chest, Shoulders, Triceps"
+Biceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/213/Male/l/213_1.jpg,Isolation,Cable,Strength,Overhead Cable Curl,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2713/Male/l/2713_1.jpg,Isolation,Cable,Strength,Pallof Press,"Chest, Shoulders, Triceps"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/934/Male/l/934_1.jpg,Compound,Cable,Strength,Pallof Press With Rotation,"Chest, Shoulders, Triceps"
+Forearms,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/4/Male/l/4_1.jpg,Isolation,Dumbbell,Strength,Palms-Down Dumbbell Wrist Curl Over A Bench,
+Forearms,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2/Male/l/2_1.jpg,Isolation,Barbell,Strength,Palms-Down Wrist Curl Over A Bench,
+Forearms,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/390/Male/l/390_1.jpg,Isolation,Barbell,Strength,Palms-Up Barbell Wrist Curl Over A Bench,
+Forearms,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/3/Male/l/3_1.jpg,Isolation,Dumbbell,Strength,Palms-Up Dumbbell Wrist Curl Over A Bench,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1461/Male/l/1461_1.jpg,Compound,Other,Strength,Parallel Bar Dip,"Chest, Shoulders"
+Glutes,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1111/Male/l/1111_1.jpg,Compound,Exercise Ball,Strength,Physioball Hip Bridge,Hamstrings
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/908/Male/l/908_1.jpg,Isolation,Body Only,Strength,Plank,
+Forearms,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/237/Male/l/237_1.jpg,Isolation,Other,Strength,Plate Pinch,
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/106/Male/l/106_1.jpg,Compound,Other,Strength,Plate Twist,
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1101/Male/l/1101_1.jpg,Isolation,Other,Strength,Platform Hamstring Slides,Glutes
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/43/Male/l/43_1.jpg,Compound,Dumbbell,Strength,Plie Dumbbell Squat,"Abdominals, Calves, Glutes, Hamstrings"
+Chest,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/644/Male/l/644_1.jpg,Compound,Kettlebells,Strength,Plyo Kettlebell Pushups,"Shoulders, Triceps"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/185/Male/l/185_1.jpg,Compound,Barbell,Strength,Power Clean,"Calves, Forearms, Glutes, Lower Back, Middle Back, Quadriceps, Shoulders, Traps, Triceps"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/270/Male/l/270_1.jpg,Isolation,Dumbbell,Strength,Power Partials,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/180/Male/l/180_1.jpg,Isolation,Barbell,Strength,Preacher Curl,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/155/Male/l/155_1.jpg,Isolation,Dumbbell,Strength,Preacher Hammer Dumbbell Curl,Forearms
+Abdominals,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/203/Male/l/203_1.jpg,Compound,Barbell,Strength,Press Sit-Up,"Chest, Shoulders, Triceps"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1131/Male/l/1131_1.jpg,Isolation,None,Strength,Prone Manual Hamstring,
+Glutes,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/707/Male/l/707_1.jpg,Compound,Cable,Strength,Pull Through,"Hamstrings, Lower Back"
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/46/Male/l/46_1.jpg,Compound,Body Only,Strength,Pullups,"Biceps, Middle Back"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/844/Male/l/844_1.jpg,Compound,Body Only,Strength,Push Up to Side Plank,"Abdominals, Shoulders, Triceps"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1511/Male/l/1511_1.jpg,Compound,Body Only,Strength,Push-Up Wide,"Abdominals, Shoulders, Triceps"
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/363/Male/l/363_1.jpg,Compound,Body Only,Strength,Push-Ups - Close Triceps Position,"Chest, Shoulders"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/103/Male/l/103_1.jpg,Compound,Body Only,Strength,Push-Ups With Feet Elevated,"Shoulders, Triceps"
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/126/Male/l/126_1.jpg,Compound,Exercise Ball,Strength,Push-Ups With Feet On An Exercise Ball,"Shoulders, Triceps"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/70/Male/l/70_1.jpg,Compound,Body Only,Strength,Pushups,"Shoulders, Triceps"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/81/Male/l/81_1.jpg,Compound,Body Only,Strength,Pushups (Close and Wide Hand Positions),"Shoulders, Triceps"
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/9/Male/l/9_1.jpg,Isolation,Barbell,Strength,Reverse Barbell Curl,Forearms
+Biceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/8/Male/l/8_1.jpg,Isolation,E-Z Curl Bar,Strength,Reverse Barbell Preacher Curls,Forearms
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/141/Male/l/141_1.jpg,Isolation,Cable,Strength,Reverse Cable Curl,Forearms
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/119/Male/l/119_1.jpg,Isolation,Body Only,Strength,Reverse Crunch,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/375/Male/l/375_1.jpg,Isolation,Dumbbell,Strength,Reverse Flyes,
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/239/Male/l/239_1.jpg,Isolation,Dumbbell,Strength,Reverse Flyes With External Rotation,
+Middle Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/128/Male/l/128_2.jpg,Compound,Barbell,Strength,Reverse Grip Bent-Over Rows,"Biceps, Lats, Shoulders"
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/179/Male/l/179_1.jpg,Isolation,Cable,Strength,Reverse Grip Triceps Pushdown,
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1421/Male/l/1421_1.jpg,N/A,Machine,Strength,Reverse Hyperextension,"Calves, Glutes"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/912/Male/l/912_1.jpg,Isolation,Machine,Strength,Reverse Machine Flyes,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/320/Male/l/320_1.jpg,Isolation,Other,Strength,Reverse Plate Curls,Forearms
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/358/Male/l/358_1.jpg,Compound,Barbell,Strength,Reverse Triceps Bench Press,"Chest, Shoulders"
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1431/Male/l/1431_1.jpg,Compound,Other,Strength,Ring Dips,"Chest, Shoulders"
+Calves,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/200/Male/l/200_1.jpg,Isolation,Barbell,Strength,Rocking Standing Calf Raise,
+Lats,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/279/Male/l/279_1.jpg,Compound,Other,Strength,Rocky Pull-Ups/Pulldowns,"Biceps, Middle Back, Shoulders"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/171/Male/l/171_1.jpg,Compound,Barbell,Strength,Romanian Deadlift,"Calves, Glutes, Lower Back"
+Lats,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1441/Male/l/1441_1.jpg,Compound,Other,Strength,Rope Climb,"Biceps, Forearms, Middle Back, Shoulders"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/888/Male/l/888_1.jpg,Isolation,Cable,Strength,Rope Crunch,
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2171/Male/l/2171_1.jpg,Isolation,Cable,Strength,Rope Straight-Arm Pulldown,
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/208/Male/l/208_1.jpg,Compound,Body Only,Strength,Russian Twist,Lower Back
+Traps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1451/Male/l/1451_1.jpg,Isolation,None,Strength,Scapular Pull-Up,"Lats, Middle Back"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1201/Male/l/1201_1.jpg,Isolation,Other,Strength,Seated Band Hamstring Curl,
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/382/Male/l/382_1.jpg,Compound,Barbell,Strength,Seated Barbell Military Press,Triceps
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/89/Male/l/89_1.jpg,Isolation,Barbell,Strength,Seated Barbell Twist,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/349/Male/l/349_1.jpg,Isolation,Dumbbell,Strength,Seated Bent-Over One-Arm Dumbbell Triceps Extension,
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/377/Male/l/377_1.jpg,Isolation,Dumbbell,Strength,Seated Bent-Over Rear Delt Raise,
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/353/Male/l/353_1.jpg,Isolation,Dumbbell,Strength,Seated Bent-Over Two-Arm Dumbbell Triceps Extension,
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/45/Male/l/45_1.jpg,Compound,Cable,Strength,Seated Cable Rows,"Biceps, Lats, Shoulders"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/871/Male/l/871_1.jpg,Compound,Cable,Strength,Seated Cable Shoulder Press,Triceps
+Calves,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/152/Male/l/152_1.jpg,Isolation,Machine,Strength,Seated Calf Raise,
+Biceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/309/Male/l/309_1.jpg,Isolation,Barbell,Strength,Seated Close-Grip Concentration Barbell Curl,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/201/Male/l/201_1.jpg,Isolation,Dumbbell,Strength,Seated Dumbbell Curl,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/245/Male/l/245_1.jpg,Isolation,Dumbbell,Strength,Seated Dumbbell Inner Biceps Curl,
+Forearms,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/385/Male/l/385_1.jpg,Isolation,Dumbbell,Strength,Seated Dumbbell Palms-Down Wrist Curl,
+Forearms,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/384/Male/l/384_1.jpg,Isolation,Dumbbell,Strength,Seated Dumbbell Palms-Up Wrist Curl,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/364/Male/l/364_1.jpg,Compound,Dumbbell,Strength,Seated Dumbbell Press,Triceps
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/93/Male/l/93_1.jpg,Compound,Body Only,Strength,Seated Flat Bench Leg Pull-In,
+Neck,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/29/Male/l/29_1.jpg,Isolation,Other,Strength,Seated Head Harness Neck Resistance,
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/69/Male/l/69_1.jpg,Isolation,Machine,Strength,Seated Leg Curl,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/290/Male/l/290_1.jpg,Isolation,Body Only,Strength,Seated Leg Tucks,
+Middle Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/297/Male/l/297_1.jpg,Compound,Cable,Strength,Seated One-arm Cable Pulley Rows,"Biceps, Lats, Traps"
+Forearms,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/387/Male/l/387_1.jpg,Isolation,Dumbbell,Strength,Seated One-Arm Dumbbell Palms-Down Wrist Curl,
+Forearms,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/386/Male/l/386_1.jpg,Isolation,Dumbbell,Strength,Seated One-Arm Dumbbell Palms-Up Wrist Curl,
+Forearms,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/388/Male/l/388_1.jpg,Isolation,Barbell,Strength,Seated Palm-Up Barbell Wrist Curl,
+Forearms,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/389/Male/l/389_1.jpg,Isolation,Barbell,Strength,Seated Palms-Down Barbell Wrist Curl,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/378/Male/l/378_1.jpg,Isolation,Dumbbell,Strength,Seated Side Lateral Raise,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/341/Male/l/341_1.jpg,Isolation,Dumbbell,Strength,Seated Triceps Press,
+Forearms,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/7/Male/l/7_1.jpg,Isolation,Cable,Strength,Seated Two-Arm Palms-Up Low-Pulley Wrist Curl,
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/197/Male/l/197_1.jpg,Compound,Dumbbell,Strength,See-Saw Press (Alternating Side Press),"Abdominals, Triceps"
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1971/Male/l/1971_1.jpg,Compound,Cable,Strength,Shotgun Row,"Biceps, Middle Back"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/259/Male/l/259_1.jpg,Compound,Bands,Strength,Shoulder Press - With Bands,Triceps
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/249/Male/l/249_1.jpg,N/A,Body Only,Strength,Side Bridge,Shoulders
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/123/Male/l/123_1.jpg,Compound,Body Only,Strength,Side Jackknife,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/373/Male/l/373_1.jpg,Isolation,Dumbbell,Strength,Side Lateral Raise,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1791/Male/l/1791_1.jpg,Isolation,Dumbbell,Strength,Side Laterals to Front Raise,Traps
+Lats,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/280/Male/l/280_1.jpg,Compound,Other,Strength,Side To Side Chins,"Biceps, Forearms, Middle Back, Shoulders"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1761/Male/l/1761_1.jpg,Isolation,Dumbbell,Strength,Single Dumbbell Raise,"Forearms, Traps"
+Glutes,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/915/Male/l/915_1.jpg,Isolation,Body Only,Strength,Single Leg Glute Bridge,Hamstrings
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2101/Male/l/2101_1.jpg,Isolation,Cable,Strength,Single-Arm Cable Crossover,
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1741/Male/l/1741_1.jpg,Compound,Barbell,Strength,Single-Arm Linear Jammer,"Chest, Triceps"
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1361/Male/l/1361_1.jpg,Compound,Body Only,Strength,Single-Arm Push-Up,"Shoulders, Triceps"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1231/Male/l/1231_1.jpg,Compound,Other,Strength,Single-Leg High Box Squat,"Glutes, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1091/Male/l/1091_1.jpg,Isolation,Machine,Strength,Single-Leg Leg Extension,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/217/Male/l/217_1.jpg,Isolation,Body Only,Strength,Sit-Up,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1061/Male/l/1061_1.jpg,Compound,Other,Strength,Sled Overhead Backward Walk,"Calves, Middle Back, Quadriceps"
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1321/Male/l/1321_1.jpg,Isolation,Other,Strength,Sled Overhead Triceps Extension,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1071/Male/l/1071_1.jpg,Isolation,Other,Strength,Sled Reverse Flye,
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1081/Male/l/1081_1.jpg,Compound,Other,Strength,Sled Row,"Biceps, Lats"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/329/Male/l/329_1.jpg,Isolation,Barbell,Strength,Smith Incline Shoulder Raise,Chest
+Traps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2131/Male/l/2131_1.jpg,Isolation,Machine,Strength,Smith Machine Behind the Back Shrug,Shoulders
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/159/Male/l/159_1.jpg,Compound,Machine,Strength,Smith Machine Bench Press,"Shoulders, Triceps"
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/138/Male/l/138_1.jpg,Compound,Machine,Strength,Smith Machine Bent Over Row,"Biceps, Lats, Shoulders"
+Calves,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1841/Male/l/1841_1.jpg,Isolation,Machine,Strength,Smith Machine Calf Raise,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/160/Male/l/160_1.jpg,Compound,Machine,Strength,Smith Machine Close-Grip Bench Press,"Chest, Shoulders"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2141/Male/l/2141_1.jpg,Compound,Machine,Strength,Smith Machine Decline Press,"Shoulders, Triceps"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2261/Male/l/2261_1.jpg,Compound,Machine,Strength,Smith Machine Hang Power Clean,"Glutes, Lower Back, Quadriceps, Shoulders, Traps"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2181/Male/l/2181_1.jpg,Isolation,Machine,Strength,Smith Machine Hip Raise,
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/188/Male/l/188_1.jpg,Compound,Machine,Strength,Smith Machine Incline Bench Press,"Shoulders, Triceps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1871/Male/l/1871_1.jpg,Compound,Machine,Strength,Smith Machine Leg Press,"Calves, Glutes, Hamstrings"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2121/Male/l/2121_1.jpg,Compound,Machine,Strength,Smith Machine One-Arm Upright Row,"Biceps, Traps"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/76/Male/l/76_1.jpg,Compound,Machine,Strength,Smith Machine Overhead Shoulder Press,Triceps
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1881/Male/l/1881_1.jpg,Compound,Machine,Strength,Smith Machine Pistol Squat,"Calves, Glutes, Hamstrings"
+Calves,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/301/Male/l/301_1.jpg,Isolation,Machine,Strength,Smith Machine Reverse Calf Raises,
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/65/Male/l/65_1.jpg,Compound,Machine,Strength,Smith Machine Squat,"Calves, Glutes, Hamstrings, Lower Back"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/67/Male/l/67_1.jpg,Compound,Machine,Strength,Smith Machine Stiff-Legged Deadlift,"Glutes, Lower Back"
+Traps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/78/Male/l/78_1.jpg,Compound,Machine,Strength,Smith Machine Upright Row,"Biceps, Middle Back, Shoulders"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/330/Male/l/330_1.jpg,Compound,Machine,Strength,Smith Single-Leg Split Squat,"Calves, Glutes, Hamstrings"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/717/Male/l/717_1.jpg,Compound,Barbell,Strength,Snatch Pull,"Calves, Glutes, Lower Back, Quadriceps, Traps"
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1221/Male/l/1221_1.jpg,Isolation,Bands,Strength,Speed Band Overhead Triceps,
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/268/Male/l/268_1.jpg,Compound,Barbell,Strength,Speed Squats,"Calves, Glutes, Hamstrings, Lower Back"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2041/Male/l/2041_1.jpg,Compound,Dumbbell,Strength,Spell Caster,"Glutes, Shoulders"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2061/Male/l/2061_1.jpg,Compound,Body Only,Strength,Spider Crawl,"Chest, Shoulders, Triceps"
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/178/Male/l/178_1.jpg,Isolation,E-Z Curl Bar,Strength,Spider Curl,
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/800/Male/l/800_1.jpg,Compound,Dumbbell,Strength,Split Squat with Dumbbells,"Glutes, Hamstrings"
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/721/Male/l/721_1.jpg,Compound,Barbell,Strength,Squat Jerk,"Calves, Glutes, Hamstrings, Shoulders, Triceps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1831/Male/l/1831_1.jpg,Compound,Barbell,Strength,Squat with Plate Movers,"Abductors, Adductors, Calves, Glutes, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/260/Male/l/260_1.jpg,Compound,Bands,Strength,Squats - With Bands,"Calves, Glutes, Hamstrings, Lower Back"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2151/Male/l/2151_1.jpg,Compound,Dumbbell,Strength,Standing Alternating Dumbbell Press,Triceps
+Calves,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/218/Male/l/218_1.jpg,Isolation,Barbell,Strength,Standing Barbell Calf Raise,
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/381/Male/l/381_1.jpg,Compound,Barbell,Strength,Standing Barbell Press Behind Neck,Triceps
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/351/Male/l/351_1.jpg,Isolation,Dumbbell,Strength,Standing Bent-Over One-Arm Dumbbell Triceps Extension,Shoulders
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/352/Male/l/352_1.jpg,Isolation,Dumbbell,Strength,Standing Bent-Over Two-Arm Dumbbell Triceps Extension,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/131/Male/l/131_1.jpg,Isolation,Cable,Strength,Standing Biceps Cable Curl,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1721/Male/l/1721_1.jpg,Compound,Barbell,Strength,Standing Bradford Press,Triceps
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/919/Male/l/919_1.jpg,Compound,Cable,Strength,Standing Cable Chest Press,"Shoulders, Triceps"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/936/Male/l/936_1.jpg,Compound,Cable,Strength,Standing Cable Lift,Shoulders
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/935/Male/l/935_1.jpg,Compound,Cable,Strength,Standing Cable Wood Chop,Shoulders
+Calves,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/48/Male/l/48_1.jpg,Isolation,Machine,Strength,Standing Calf Raises,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1671/Male/l/1671_1.jpg,Isolation,Dumbbell,Strength,Standing Concentration Curl,Forearms
+Calves,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/219/Male/l/219_1.jpg,Isolation,Dumbbell,Strength,Standing Dumbbell Calf Raise,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/920/Male/l/920_1.jpg,Compound,Dumbbell,Strength,Standing Dumbbell Press,Triceps
+Biceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/168/Male/l/168_1.jpg,Isolation,Dumbbell,Strength,Standing Dumbbell Reverse Curl,Forearms
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/374/Male/l/374_1.jpg,Isolation,Dumbbell,Strength,Standing Dumbbell Straight-Arm Front Delt Raise Above Head,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/345/Male/l/345_1.jpg,Isolation,Dumbbell,Strength,Standing Dumbbell Triceps Extension,
+Traps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/368/Male/l/368_1.jpg,Compound,Dumbbell,Strength,Standing Dumbbell Upright Row,"Biceps, Shoulders"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/379/Male/l/379_1.jpg,Isolation,Barbell,Strength,Standing Front Barbell Raise Over Head,
+Biceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/190/Male/l/190_1.jpg,Isolation,Dumbbell,Strength,Standing Inner-Biceps Curl,
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/68/Male/l/68_1.jpg,Isolation,Machine,Strength,Standing Leg Curl,
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/72/Male/l/72_1.jpg,Isolation,Cable,Strength,Standing Low-Pulley Deltoid Raise,Forearms
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/149/Male/l/149_1.jpg,Isolation,Cable,Strength,Standing Low-Pulley One-Arm Triceps Extension,"Chest, Shoulders"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/370/Male/l/370_1.jpg,Compound,Barbell,Strength,Standing Military Press,Triceps
+Forearms,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/6/Male/l/6_1.jpg,Isolation,Other,Strength,Standing Olympic Plate Hand Squeeze,Biceps
+Biceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/192/Male/l/192_1.jpg,Isolation,Cable,Strength,Standing One-Arm Cable Curl,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/339/Male/l/339_1.jpg,Isolation,Dumbbell,Strength,Standing One-Arm Dumbbell Curl Over Incline Bench,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/350/Male/l/350_1.jpg,Isolation,Dumbbell,Strength,Standing One-Arm Dumbbell Triceps Extension,"Chest, Shoulders"
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/354/Male/l/354_1.jpg,Isolation,Barbell,Strength,Standing Overhead Barbell Triceps Extension,Shoulders
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/366/Male/l/366_1.jpg,Compound,Dumbbell,Strength,Standing Palm-In One-Arm Dumbbell Press,Triceps
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/367/Male/l/367_1.jpg,Compound,Dumbbell,Strength,Standing Palms-In Dumbbell Press,Triceps
+Forearms,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/5/Male/l/5_1.jpg,Isolation,Barbell,Strength,Standing Palms-Up Barbell Behind The Back Wrist Curl,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2091/Male/l/2091_1.jpg,Isolation,Cable,Strength,Standing Rope Crunch,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/383/Male/l/383_1.jpg,Isolation,Body Only,Strength,Standing Towel Triceps Extension,
+Glutes,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2251/Male/l/2251_1.jpg,Compound,Body Only,Strength,Step-up with Knee Raise,"Hamstrings, Quadriceps"
+Lower Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/86/Male/l/86_1.jpg,Compound,Barbell,Strength,Stiff Leg Barbell Good Morning,"Glutes, Hamstrings"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/21/Male/l/21_1.jpg,Compound,Barbell,Strength,Stiff-Legged Barbell Deadlift,"Glutes, Lower Back"
+Hamstrings,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/22/Male/l/22_1.jpg,Compound,Dumbbell,Strength,Stiff-Legged Dumbbell Deadlift,"Glutes, Lower Back"
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1951/Male/l/1951_1.jpg,Compound,Barbell,Strength,Straight Bar Bench Mid Rows,"Biceps, Lats"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1801/Male/l/1801_1.jpg,Isolation,Barbell,Strength,Straight Raises on Incline Bench,Traps
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/39/Male/l/39_1.jpg,Compound,Dumbbell,Strength,Straight-Arm Dumbbell Pullover,"Lats, Shoulders, Triceps"
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/11/Male/l/11_1.jpg,Isolation,Cable,Strength,Straight-Arm Pulldown,
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2723/Male/l/2723_1.jpg,Isolation,Other,Strength,Suspended Fallout,"Chest, Lower Back, Shoulders"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1371/Male/l/1371_1.jpg,Compound,Other,Strength,Suspended Push-Up,"Shoulders, Triceps"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1401/Male/l/1401_1.jpg,Isolation,Other,Strength,Suspended Reverse Crunch,
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1381/Male/l/1381_1.jpg,Compound,Other,Strength,Suspended Row,"Biceps, Lats"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1391/Male/l/1391_1.jpg,Compound,Other,Strength,Suspended Split Squat,"Abductors, Adductors, Calves, Glutes, Hamstrings"
+Chest,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2761/Male/l/2761_1.jpg,Compound,Other,Strength,Svend Press,"Forearms, Shoulders, Triceps"
+Middle Back,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1931/Male/l/1931_1.jpg,Compound,Barbell,Strength,T-Bar Row with Handle,"Biceps, Lats"
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/226/Male/l/226_1.jpg,Isolation,Dumbbell,Strength,Tate Press,"Chest, Shoulders"
+Abductors,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/154/Male/l/154_1.jpg,Isolation,Machine,Strength,Thigh Abductor,Glutes
+Adductors,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/153/Male/l/153_1.jpg,Isolation,Machine,Strength,Thigh Adductor,"Glutes, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/921/Male/l/921_1.jpg,Compound,Other,Strength,Trap Bar Deadlift,"Glutes, Hamstrings"
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/348/Male/l/348_1.jpg,Isolation,Dumbbell,Strength,Tricep Dumbbell Kickback,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/922/Male/l/922_1.jpg,Isolation,Cable,Strength,Triceps Overhead Extension with Rope,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/343/Male/l/343_1.jpg,Isolation,Cable,Strength,Triceps Pushdown,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/54/Male/l/54_1.jpg,Isolation,Cable,Strength,Triceps Pushdown - Rope Attachment,
+Triceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/143/Male/l/143_1.jpg,Isolation,Cable,Strength,Triceps Pushdown - V-Bar Attachment,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/115/Male/l/115_1.jpg,Isolation,Body Only,Strength,Tuck Crunch,
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/266/Male/l/266_1.jpg,Isolation,Dumbbell,Strength,Two-Arm Dumbbell Preacher Curl,
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/529/Male/l/529_1.jpg,Compound,Kettlebells,Strength,Two-Arm Kettlebell Clean,"Calves, Glutes, Hamstrings, Lower Back, Traps"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/528/Male/l/528_1.jpg,Compound,Kettlebells,Strength,Two-Arm Kettlebell Jerk,"Calves, Quadriceps, Triceps"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/530/Male/l/530_1.jpg,Compound,Kettlebells,Strength,Two-Arm Kettlebell Military Press,Triceps
+Middle Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/531/Male/l/531_1.jpg,Compound,Kettlebells,Strength,Two-Arm Kettlebell Row,"Biceps, Lats"
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/139/Male/l/139_1.jpg,Compound,Cable,Strength,Underhand Cable Pulldowns,"Biceps, Middle Back, Shoulders"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/365/Male/l/365_1.jpg,Compound,Barbell,Strength,Upright Barbell Row,Traps
+Traps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/71/Male/l/71_1.jpg,Compound,Cable,Strength,Upright Cable Row,Shoulders
+Traps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/261/Male/l/261_1.jpg,Compound,Bands,Strength,Upright Row - With Bands,Shoulders
+Lats,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/177/Male/l/177_1.jpg,Compound,Cable,Strength,V-Bar Pulldown,"Biceps, Middle Back, Shoulders"
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/140/Male/l/140_1.jpg,Compound,Body Only,Strength,V-Bar Pullup,"Biceps, Middle Back, Shoulders"
+Lower Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/332/Male/l/332_1.jpg,Compound,Exercise Ball,Strength,Weighted Ball Hyperextension,"Glutes, Hamstrings, Middle Back"
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/333/Male/l/333_1.jpg,Isolation,Exercise Ball,Strength,Weighted Ball Side Bend,
+Triceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/334/Male/l/334_1.jpg,Compound,Other,Strength,Weighted Bench Dip,"Chest, Shoulders"
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/926/Male/l/926_1.jpg,Isolation,Medicine Ball,Strength,Weighted Crunches,
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/887/Male/l/887_1.jpg,Compound,Barbell,Strength,Weighted Jump Squat,"Calves, Glutes, Hamstrings, Lower Back"
+Lats,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/928/Male/l/928_1.jpg,Compound,Other,Strength,Weighted Pull Ups,"Biceps, Middle Back"
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/335/Male/l/335_1.jpg,Compound,Barbell,Strength,Weighted Sissy Squat,"Calves, Glutes, Hamstrings"
+Abdominals,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/262/Male/l/262_1.jpg,Isolation,Other,Strength,Weighted Sit-Ups - With Bands,
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/336/Male/l/336_1.jpg,Compound,Other,Strength,Weighted Squat,"Calves, Glutes, Hamstrings"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/44/Male/l/44_1.jpg,Compound,Barbell,Strength,Wide Stance Barbell Squat,"Calves, Glutes, Hamstrings, Lower Back"
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/33/Male/l/33_1.jpg,Compound,Barbell,Strength,Wide-Grip Barbell Bench Press,"Shoulders, Triceps"
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/35/Male/l/35_1.jpg,Compound,Barbell,Strength,Wide-Grip Decline Barbell Bench Press,"Shoulders, Triceps"
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/275/Male/l/275_1.jpg,Compound,Barbell,Strength,Wide-Grip Decline Barbell Pullover,"Shoulders, Triceps"
+Lats,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/10/Male/l/10_1.jpg,Compound,Cable,Strength,Wide-Grip Lat Pulldown,"Biceps, Middle Back, Shoulders"
+Lats,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/15/Male/l/15_1.jpg,Compound,Cable,Strength,Wide-Grip Pulldown Behind The Neck,"Biceps, Middle Back, Shoulders"
+Lats,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/191/Male/l/191_1.jpg,Compound,Body Only,Strength,Wide-Grip Rear Pull-Up,"Biceps, Middle Back, Shoulders"
+Biceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/287/Male/l/287_1.jpg,Isolation,Barbell,Strength,Wide-Grip Standing Barbell Curl,
+Abdominals,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/2051/Male/l/2051_1.jpg,Compound,Body Only,Strength,Wind Sprints,
+Forearms,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/142/Male/l/142_1.jpg,Isolation,Other,Strength,Wrist Roller,Shoulders
+Forearms,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/1691/Male/l/1691_1.jpg,Isolation,Barbell,Strength,Wrist Rotations with Straight Bar,
+Quadriceps,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/284/Male/l/284_1.jpg,Compound,Barbell,Strength,Zercher Squats,"Calves, Glutes, Hamstrings"
+Biceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/204/Male/l/204_1.jpg,Isolation,Dumbbell,Strength,Zottman Curl,Forearms
+Biceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/205/Male/l/205_1.jpg,Isolation,Dumbbell,Strength,Zottman Preacher Curl,Forearms
+Lower Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/727/Male/l/727_1.jpg,Compound,Other,Strongman,Atlas Stone Trainer,"Biceps, Forearms, Glutes, Hamstrings, Quadriceps"
+Lower Back,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/659/Male/l/659_1.jpg,Compound,Other,Strongman,Atlas Stones,"Abdominals, Adductors, Biceps, Calves, Forearms, Glutes, Hamstrings, Middle Back, Quadriceps, Traps"
+Lower Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/750/Male/l/750_1.jpg,Compound,Other,Strongman,Axle Deadlift,"Forearms, Glutes, Hamstrings, Middle Back, Quadriceps, Traps"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/728/Male/l/728_1.jpg,Compound,Other,Strongman,Backward Drag,"Calves, Forearms, Glutes, Hamstrings, Lower Back"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/730/Male/l/730_1.jpg,Compound,Other,Strongman,Bear Crawl Sled Drags,"Calves, Glutes, Hamstrings"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/676/Male/l/676_1.jpg,Compound,Other,Strongman,Car Deadlift,"Forearms, Glutes, Hamstrings, Lower Back, Traps"
+Shoulders,Expert,http://www.bodybuilding.com/exercises/exerciseImages/sequences/668/Male/l/668_1.jpg,Compound,Other,Strongman,Circus Bell,"Forearms, Glutes, Hamstrings, Lower Back, Traps, Triceps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/674/Male/l/674_1.jpg,Compound,Other,Strongman,Conan's Wheel,"Abdominals, Biceps, Calves, Forearms, Lower Back, Shoulders, Traps"
+Shoulders,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/675/Male/l/675_1.jpg,Isolation,Other,Strongman,Crucifix,Forearms
+Forearms,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/682/Male/l/682_1.jpg,Compound,Other,Strongman,Farmer's Walk,"Abdominals, Glutes, Hamstrings, Lower Back, Quadriceps, Traps"
+Chest,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/736/Male/l/736_1.jpg,Compound,Other,Strongman,Forward Drag with Press,"Calves, Glutes, Hamstrings, Quadriceps, Shoulders, Triceps"
+Lower Back,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/696/Male/l/696_1.jpg,Compound,Other,Strongman,Keg Load,"Abdominals, Biceps, Calves, Forearms, Glutes, Hamstrings, Middle Back, Quadriceps, Shoulders, Traps"
+Shoulders,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/698/Male/l/698_1.jpg,Compound,Other,Strongman,Log Lift,"Abdominals, Chest, Glutes, Hamstrings, Lower Back, Middle Back, Quadriceps, Traps, Triceps"
+Hamstrings,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/706/Male/l/706_1.jpg,Compound,Other,Strongman,Power Stairs,"Adductors, Calves, Glutes, Lower Back, Quadriceps, Shoulders, Traps"
+Forearms,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/742/Male/l/742_1.jpg,Compound,Other,Strongman,Rickshaw Carry,"Abdominals, Calves, Glutes, Hamstrings, Lower Back, Quadriceps, Traps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/743/Male/l/743_1.jpg,Compound,Other,Strongman,Rickshaw Deadlift,"Forearms, Glutes, Hamstrings, Lower Back, Traps"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/711/Male/l/711_1.jpg,Compound,Other,Strongman,Sandbag Load,"Abdominals, Biceps, Calves, Forearms, Glutes, Hamstrings, Lower Back, Middle Back, Shoulders, Traps"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/713/Male/l/713_1.jpg,Compound,Other,Strongman,Sled Drag - Harness,"Calves, Glutes, Hamstrings"
+Quadriceps,Beginner,http://www.bodybuilding.com/exercises/exerciseImages/sequences/714/Male/l/714_1.jpg,Compound,Other,Strongman,Sled Push,"Calves, Chest, Glutes, Hamstrings, Triceps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/725/Male/l/725_1.jpg,Compound,Other,Strongman,Tire Flip,"Calves, Chest, Forearms, Glutes, Hamstrings, Lower Back, Shoulders, Traps, Triceps"
+Quadriceps,Intermediate,http://www.bodybuilding.com/exercises/exerciseImages/sequences/726/Male/l/726_1.jpg,Compound,Other,Strongman,Yoke Walk,"Abdominals, Abductors, Adductors, Calves, Glutes, Hamstrings, Lower Back"

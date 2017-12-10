@@ -1,0 +1,194 @@
+<div id="choose">
+
+    <h2 class="title-page text-green">let's get started</h2>
+    <h5 class="subtitle-page">No annual contracts & No penalties for cancellation</h5>
+
+    <div class="row">
+        <div class="col-sm-5 col-md-4 pd-right_0">
+        
+            <div class="panel-box pd_15">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <% if (monthly_amount == first_month_amount) { %>
+                        <h5 class="title-join text-green text-center">Join Us Today!</h5>
+                        <% } else { %>
+                        <div class="badge-discount">Get 17% OFF</div>
+                        <% } %>
+                        <h3 class="price-join text-blue text-center">
+                            <% if (monthly_amount == first_month_amount) { %>
+                            <span>$<%=monthly_amount%>/mo</span>
+                            <% } else { %>
+                            <span class="price-discount">
+                                <span class="old-price">$<%=monthly_amount%>/mo</span><br/>
+                                Today $<%=first_month_amount%>
+                            </span>
+                            <% } %>
+                        </h3>
+                        <p class="plans-descriptions free-description">
+                          Get access to health tools, food tracker, exercise tracker, progress tracker, nutrition consultations and much more!
+                        </p>
+                        <p class="plans-descriptions free-description last">
+                          Moreover, you can get consultations every month from anywhere and anytime through our website!
+                        </p>
+                    </div>
+                </div>
+                <div class="box-bottom">
+                    <div class="row">
+                        <div class="col-xs-7 col-sm-6">
+                            <p>Enter Promo-Code:</p>
+                        </div>
+                        <div class="col-xs-5 col-sm-6 pd-left_0">
+                            <input class="form-control mrgtop-3" id="promo-code" type="text" name="code" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-7 col-md-8">
+            <div class="panel-box pd_15">
+                <div class="row">
+                    <div class="col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8">
+
+                        <form class="text-left" id="card-form" action="" method="POST" name="">
+                            <div class="form-group">
+                                <label for="firstname" class="lb-normal upper">first name</label>
+                                <input type="text" id="firstname" class="form-control" name="firstname" />
+                                <label id="firstname_error" class="error bottom"></label>
+                            </div>
+                            <div class="form-group">
+                                <label for="lastname" class="lb-normal upper">last name</label>
+                                <input type="text" id="lastname" class="form-control" name="lastname" />
+                                <label id="lastname_error" class="error bottom"></label>
+                            </div>
+                            <div class="form-group">
+                                <label for="creditcard" class="lb-normal inline-card upper">credit card number</label>
+                                <span class="pull-right cards">
+                                    <img src="img/discover-icon.png" alt="Qalorie" width="40" />
+                                </span>
+                                <span class="pull-right cards">
+                                    <img src="img/amex-icon.png" alt="Qalorie" width="40" />
+                                </span>
+                                <span class="pull-right cards">
+                                    <img src="img/mc-icon.png" alt="Qalorie" width="40" />
+                                </span>
+                                <span class="pull-right cards">
+                                    <img src="img/visa-icon.png" alt="Qalorie" width="40" />
+                                </span>
+                                <input type="text" id="creditcard" class="form-control" name="creditcard" data-stripe="number" />
+                                <label id="creditcard_error" class="error bottom"></label>
+                                <label class="payment-errors error bottom"></label>
+                            </div>
+                        
+                            <div class="row">
+                                <div class="col-sm-5 col-md-6">
+                                    <div class="form-group">
+                                      <label for="cvv2" class="lb-normal inline-card upper">cvv2</label><a href="#" class="icon-help" data-toggle="modal" data-target="#myModal"></a>
+                                      <input type="text" id="cvv2" class="form-control" name="cvv2" data-stripe="cvc" />
+                                      <label id="cvv2_error" class="error bottom"></label>
+                                    </div>
+                                </div>
+                                <div class="col-sm-7 col-md-6">
+                                    <div class="form-group">
+                                        <div class="row">    
+                                            <div class="col-sm-12 pd-left_0">
+                                                <label class="lb-normal upper">expiration date</label>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-xs-6 pd-left_0">
+                                                <div id="monthExp" class="bfh-selectbox full" data-name="month" data-value="">
+                                                    <div data-value="">MM</div>
+                                                    <div data-value="1">Jan</div>
+                                                    <div data-value="2">Feb</div>
+                                                    <div data-value="3">Mar</div>
+                                                    <div data-value="4">Apr</div>
+                                                    <div data-value="5">May</div>
+                                                    <div data-value="6">Jun</div>
+                                                    <div data-value="7">Jul</div>
+                                                    <div data-value="8">Aug</div>
+                                                    <div data-value="9">Sept</div>
+                                                    <div data-value="10">Oct</div>
+                                                    <div data-value="11">Nov</div>
+                                                    <div data-value="12">Dec</div>
+                                                </div>
+                                            </div>
+                                            <div class="col-xs-6 pd-left_0">
+                                                <div id="yearExp" class="bfh-selectbox full" data-name="year" data-value="" >
+                                                    <div data-value="">YYYY</div>
+                                                    <div data-value="2016">2016</div>
+                                                    <div data-value="2017">2017</div>
+                                                    <div data-value="2018">2018</div>
+                                                    <div data-value="2019">2019</div>
+                                                    <div data-value="2020">2020</div>
+                                                    <div data-value="2021">2021</div>
+                                                    <div data-value="2022">2022</div>
+                                                    <div data-value="2023">2023</div>
+                                                    <div data-value="2024">2024</div>
+                                                    <div data-value="2025">2025</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <label id="expiration_error" class="error bottom expiration"></label>
+                                        <input type="hidden" data-stripe="exp-year">
+                                        <input type="hidden" data-stripe="exp-month">
+                                        <input type="hidden" data-stripe="name">
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                        <!-- if payment is declined show it with fadeIn effect -->
+                        <div class="payment-declined">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="box">
+                                        <div class="declined">
+                                            <span class="icon-no"></span>
+                                        </div>
+                                        <p class="text-blue text-center">
+                                            Payment declined
+                                            <a class="text-red">Try again</a>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>  
+                </div>
+
+                <div class="box-bottom">
+                    <div class="row">
+                        <div class="col-sm-12 text-right">
+                            <button type="submit" class="btn-green-open mrg-no" id="next-step">
+                                Continue
+                            </button>
+                            <button type="button" class="btn-blue-open mrg-no" id="btn-try-again">
+                                try again
+                            </button>   
+                        </div>
+                    </div>
+                </div>
+
+            </div>  
+        </div>
+    </div>
+
+</div><!-- /choose your plan -->
+
+<!-- Modal CVV -->
+<div class="modal fade cvv2" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title text-left" id="myModalLabel">WHAT IS A CARD SECURITY CODE?</h4>
+            </div>
+            <div class="modal-body text-center">
+                <p>
+                    A three- or four-digit code on your credit card, separate from the 16-digit card number. The location varies slightly depending on your type of card:
+                </p>
+                <img src="img/svv2.png" alt="Qalorie" />
+            </div>
+        </div>
+    </div>
+</div>

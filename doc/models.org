@@ -1,0 +1,24 @@
+* User
+* Account
+* Nutritionist Account
+* Patient Account
+
+* StatusUpdate
+* Goal
+* BodyProgress
+
+* Appointment
+** questioniary
+   - questions
+     - question
+     - answer
+** messages = []message
+   - user_stats (like a snapshot denormalized for scalability)
+   -
+
+* Exercise
+* ExerciseStatusUpdate
+* Food
+* FoodStatusUpdate
+* Recipe
+*

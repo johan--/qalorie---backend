@@ -1,0 +1,213 @@
+@import 'base';
+
+.menu {
+  li {
+    a {
+      i {
+        font-size: 24px;
+        margin: 15px 0 10px 0;
+        display: block;
+      }
+      &:hover {
+        color: #86ca50;
+      }
+    }
+  }
+  li.active {
+    a {
+      color: #86ca50;
+    }
+  }
+}
+
+.main_section {
+  h1.title {
+    color: #86CA50;
+    display: table;
+    font-family: "Source Sans Pro";
+    font-size: 31px;
+    font-weight: 200;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: 100%;
+    margin: 0 0 30px 0;
+    &:before, &:after {
+      border-top: 1px solid #BFBFBF;
+      content: " ";
+      display: table-cell;
+      position: relative;
+      top: 0.5em;
+      width: 42%;
+    }
+  }
+}
+
+#page-users {
+  .list {
+    min-height: 300px;
+  }
+  .edit-form {
+    display: none;
+    text-align: left;
+  }
+  .actions {
+    text-align: right;
+    padding: 20px 0 0 0;
+    border-top: 2px solid #CCC;
+    span {
+      display: inline-block;
+      padding: 0 10px;
+    }
+  }
+  .search-user {
+    text-align: right;
+    padding: 0 0 15px;
+    margin: 0 0 15px;
+    border-bottom: 2px solid #CCC;
+  }
+}
+#page-activities {
+  .section {
+    padding: 10px 50px 15px;
+    table {
+      margin-bottom: 10px;
+      border-bottom: 1px solid #E0E0E0;
+    }
+    th {
+
+    }
+    td {
+
+    }
+    td.email {
+      color: #428bca;
+    }
+    .actions {
+      text-align: right;
+      span {
+        display: inline-block;
+        padding: 0 10px;
+      }
+    }
+  }
+  .filter-user {
+    text-align: right;
+    padding: 0 0 15px;
+    margin: 0 0 15px;
+    border-bottom: 2px solid #CCC;
+    select {
+      border-radius: 0px;
+      color: #A8AFB1;
+      border-color: #BFBFBF;
+      font-family: "Lato";
+      width: 100px;
+    }
+    button {
+      font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+      font-style: normal;
+      font-size: 13px;
+    }
+  }
+}
+#accordion {
+  h3 {
+    font-family: "Lato";
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 700;
+    color: #8B959E;
+    height: 59px;
+    line-height: 59px;
+    background: #fff;
+    border-bottom: 1px solid #BFBFBF;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    margin: 0;
+    text-align: left;
+    padding-left: 115px;
+    position: relative;
+    cursor: pointer;
+    .ui-icon-triangle-1-e {
+      position: absolute;
+      top: 25px;
+      left: 23px;
+      background-position: -30px -234px;
+      width: 5px;
+      height: 10px;
+    }
+    .ui-icon-triangle-1-s {
+      position: absolute;
+      top: 28px;
+      left: 22px;
+      background-position: -28px -208px;
+      width: 10px;
+      height: 5px;
+    }
+    .icon-section {
+      height: 26px;
+      width: 28px;
+      position: absolute;
+      left: 58px;
+      top: 16px;
+    }
+    .icon-small-dashboard {
+      background-position: 0 0;
+    }
+    .icon-small-status {
+      background-position: 0px -28px;
+      height: 24px;
+      width: 28px;
+    }
+    .icon-small-progress {
+      background-position: 0px -56px;
+      width: 26px;
+    }
+    .icon-small-food {
+      background-position: 0px -82px;
+    }
+    .icon-small-exercises {
+      background-position: 0px -114px;
+      height: 30px;
+      width: 26px;
+    }
+    .icon-small-nutritionist {
+      background-position: 0px -147px;
+    }
+    .icon-small-delete_account {
+      background-position: -160px -430px;
+      width: 44px;
+      height: 42px;
+      top: 8px;
+      left: 52px;
+    }
+    .icon-small-signup {
+      background-position: -45px -592px;
+      width: 38px;
+      height: 40px;
+      left: 52px;
+      top: 10px;
+    }
+    .section-count {
+      color: #428bca;
+    }
+  }
+}
+#page-nutritionists {
+  .search-user {
+    text-align: right;
+    padding: 0 0 15px;
+    margin: 0 0 15px;
+    border-bottom: 2px solid #CCC;
+  }
+  .tab-content {
+    background: #FFF;
+    .tab-pane .list {
+      padding: 15px;
+    }
+  }
+  .view-form {
+    display: none;
+    text-align: left;
+  }
+}

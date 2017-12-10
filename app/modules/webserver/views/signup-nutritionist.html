@@ -1,0 +1,248 @@
+{% extends "base.html" %}
+
+  {%block styles%}
+  <link rel="stylesheet" type="text/css" href="/css/login.css">
+  {%endblock%}
+
+
+{%block scripts%}
+{% parent %}
+  <script type="text/javascript" src="/js/signup.js"></script>
+  <script>
+
+    window.appId = "{{appId}}";
+
+    function getUrlParameter(sParam)
+    {
+        var sPageURL = window.location.search.substring(1);
+        var sURLVariables = sPageURL.split('&');
+        for (var i = 0; i < sURLVariables.length; i++)
+        {
+            var sParameterName = sURLVariables[i].split('=');
+            if (sParameterName[0] == sParam)
+            {
+                return sParameterName[1];
+            }
+        }
+    }
+
+    $( document ).ready(function() {
+        if(getUrlParameter('warn') !== '' && getUrlParameter('warn') !== undefined){
+          $("#signupFaceboookButton").hide();
+
+
+          if(getUrlParameter('error') !== '' && getUrlParameter('error') !== undefined){
+            $("#messageContainer").hide();
+            $("#messageContainerError").show();
+            $("#messageContainerError").append(unescape(getUrlParameter('warn')));
+          }else{
+            $("#messageContainer").show();
+            $("#messageContainerError").hide();
+            $("#messageContainer").append('<b>You are almost set!</b>&nbsp;' + unescape(getUrlParameter('warn')));
+            var userName="";
+            if(getUrlParameter('name') !== '' && getUrlParameter('name') !== undefined){
+              userName=getUrlParameter('name');
+            }
+            if(getUrlParameter('lastName') !== '' && getUrlParameter('lastName') !== undefined){
+              userName = userName + getUrlParameter('lastName');
+              $("#username").val(unescape(userName.trim()));
+            }
+          }
+
+        }
+
+        var validation = $("#signup-form").validate({
+            rules: {
+              email: {
+                required: true,
+                email: true
+              },
+              password: {
+                required: true
+              },
+              reppassword: {
+                required: true
+              }
+            },
+            messages: {
+              email: "Please enter a valid email address",
+              password: "Please enter your password",
+              reppassword: "Please enter your password",
+            }
+        });
+
+        $("#signupBtn").click(function(event){
+
+            if($("#signup-form").valid()){
+              console.log("Es valido")
+
+                  if(!$("#minimal-checkbox-7")[0].checked){
+                        $("#messageContainerError").empty();
+                        $("#messageContainerError").show();
+                        $("#messageContainerError").append("Please accept the terms and conditions");
+                  }else{
+
+                      if($("#password").val() != $("#reppassword").val()){
+                        $("#differentpassword").empty();
+                        $("#differentpassword").show();
+                        $("#differentpassword").append("The passwords provided are different");
+                      }else{
+                        $.ajax({
+                          url:'/api/v1/users',
+                          type:'post',
+                          data:{
+                            email:$("#email").val(),
+                            password:$("#password").val(),
+                            is_nutritionist: true
+                          },
+                          success: function(data) {
+                            console.log(data);
+                            if(data.error){
+                              var error="<ul>";
+                              if(data.error.errors.username){
+                                  error = "<li>the username " + data.error.errors.username.value + " is already register in our system</li>";
+                              }
+                              if(data.error.errors.email){
+                                error = "<li>the email " + data.error.errors.email.value + " is already register in our system</li>";
+                              }
+                              error = error + "</ul>";
+                              $("#messageContainerError").empty();
+                              $("#messageContainerError").show();
+                              $("#messageContainerError").append(error);
+                            }else{
+                              $.ajax({
+                                url:'/api/v1/auth/local',
+                                type:'post',
+                                data:{
+                                  email:$("#email").val(),
+                                  password:$("#password").val()
+                                },
+                                success: function(data) {
+                                  console.log(data);
+                                  $.cookies.set('auth_token', data.token);
+                                  $.cookies.set('user_id', data._id);
+                                  window.location.href = '/signup-progress#nutritionist';
+                                }
+                              });
+                            }
+
+                          },
+                          error: function(xhr, error) {
+                            alert("Error to be handled");
+                          }
+                        });
+                      }
+                  }
+            }
+
+        });
+
+    });
+
+  </script>
+{%endblock%}
+
+{% block layout %}
+
+  <header>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="logo-head">
+            <img src="/img/qalorie_logo_pixel.svg" height="40" onerror="this.onerror=null; this.src='/img/logo.png'" alt"Qalorie" />
+          </div>
+
+          <div class="pull-right">
+            <p>Already have an account?</p>
+            <a href="/login" class="btn-green-open btn-large mg-header-login">login</a>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section>
+
+    <div class="container-fluid">
+
+      <div class="row">
+
+        <div class="col-md-12">
+
+          <h2 class="title-page text-green">sign up</h2>
+          <h5 class="subtitle-page">Make the first step to become a nutritionist by signing up for Qalorie!</h5>
+
+          <div id="signupContainer" class="box-centered text-center">
+
+            <p class="description-box">
+              Get equipped with everything you need to reach your weight loss, diet plans & fitness goals.
+            </p>
+
+            <div class="row">
+              <div class="col-md-12">
+                <div id="messageContainer" class="alert alert-error" style="display:none;">
+                </div>
+              </div>
+            </div>
+
+            <form class="form-login" id="signup-form">
+              <div class="form-group">
+                <label class="lb-normal" for="email">email</label>
+                <input type="text" id="email" class="form-control" name="email" />
+              </div>
+              <div class="form-group">
+                <label class="lb-normal" for="password">password</label>
+                <input type="password" id="password" class="form-control" name="password" />
+              </div>
+              <div class="form-group">
+                <label class="lb-normal" for="reppassword">repeat password</label>
+                <input type="password" id="reppassword" class="form-control last" name="reppassword" />
+                <label id="differentpassword" class="error different"></label>
+              </div>
+              <div class="form-group terms">
+                <input tabindex="5" type="checkbox" id="minimal-checkbox-7" name="terms">
+                <p class="text-with-link">I agree to the <a class="text-green" href="/terms">Terms and Conditions</a></p>
+                <label id="messageContainerError" class="error conditions"></label>
+              </div>
+              <div class="form-group text-right">
+                <button id="signupBtn" type="button" class="btn-green-open mg-form-login">sign up</button>
+              </div>
+            </form>
+
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-offset-0 col-sm-9 col-md-offset-1 col-md-7">
+        <div class="text-left">
+          <p class="upper">
+            Copyright © 2016 Qalorie™, Inc. All Rights Reserved.
+          </p>
+          <ul class="breadcrumb ">
+            <li><a href="mailto:contact@qalorie.com">contact us</a></li>
+            <li><a href="/terms">terms of use</a></li>
+            <li><a href="/privacy-policy">privacy policy</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-sm-3 col-md-3">
+        <div class="text-right">
+          <p>
+            <a href="/" title="">
+              <img src="/img/qalorie_logo_pixel.svg" height="40" onerror="this.onerror=null; this.src='/img/logo.png'" alt"Qalorie" />
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+{% endblock layout %}

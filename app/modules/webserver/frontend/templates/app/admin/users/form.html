@@ -1,0 +1,33 @@
+<div class="panel panel-default">
+  <div class="panel-heading">Edit User</div>
+  <div class="panel-body">
+    <div class="form-group">
+      <label for="first_name">First name</label>
+      <input type="text" class="form-control" id="first_name" placeholder="First Name" required value="<%= model.get('first_name') %>">
+    </div>
+    <div class="form-group">
+      <label for="last_name">Last name</label>
+      <input type="text" class="form-control" id="last_name" placeholder="Last Name" required value="<%= model.get('last_name') %>">
+    </div>
+
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input type="text" class="form-control" id="email" placeholder="Email" required value="<%= model.get('email') %>">
+    </div>
+
+    <div class="form-group">
+      <label for="role">Role</label>
+      <select class="form-control" id="role" required>
+        <option value="admin" <%= model.get('is_admin') ? 'selected' : '' %>>Admin</option>
+        <option value="nutritionist" <%= (!model.get('is_admin') && model.get('is_nutritionist')) ? 'selected' : '' %>>Nutritionist</option>
+        <option value="user" <%= (!model.get('is_admin') && !model.get('is_nutritionist')) ? 'selected' : '' %>>User</option>
+      </select>
+    </div>
+
+    <div class="text-right">
+      <button type="button" class="btn btn-default cancel">Cancel</button>
+      <button type="button" class="btn btn-info save">Save</button>
+    </div>
+
+  </div>
+</div>

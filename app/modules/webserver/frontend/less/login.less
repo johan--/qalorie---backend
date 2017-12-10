@@ -1,0 +1,360 @@
+@import 'qalorie';
+@import 'jquery-selectUISlider';
+
+header {
+
+    p {
+        position: absolute;
+        right: 205px;
+        top:20px;
+        .open-normal(13px);
+        font-style: italic;
+        color: @font-menu
+    }
+
+} // header
+
+section {
+    border-top: 1px solid @line-header-bottom;
+    background: #f9f9f9;
+    margin: 57px 0 0;
+    padding-bottom: 140px
+}
+
+#choose {
+    margin: 0 auto;
+    width: 950px
+}
+
+#card-form {
+    padding: 21px 0 0 0
+}
+
+footer {
+    background: @white;
+    min-height: 120px;
+
+    p {
+        color: @font-menu;
+        .open-bold(10px);
+        margin: 36px 0 26px;
+    }
+
+    .breadcrumb {
+        background:@white;
+        .border-radius(0px);
+        margin:0;
+        padding: 0;
+
+        > li > a {
+            color: @font-menu;
+            .open-bold(10px);
+            text-transform: uppercase
+        }
+    }
+
+    .breadcrumb > li + li:before {
+        color: @font-menu;
+        content: "| ";
+        font-size: 11px;
+        padding: 0 5px
+    }
+
+} // footer
+
+//  custom checkboxs
+.icheckbox_minimal-green, .iradio_minimal-green {
+    display: inline-block;
+    *display: inline;
+    background: url("../img/green.png") no-repeat;
+    border: none;
+    cursor: pointer;
+    height: 19px;
+    margin-right: 11px;
+    margin: 0;
+    padding: 0;
+    vertical-align: text-bottom;
+    width: 19px;
+}
+.icheckbox_minimal-green {
+    background-position: 0 0;
+
+    &.hover {
+        background-position: -20px 0
+    }
+    &.checked {
+        background-position: -40px 0;
+
+        &.disabled {
+            background-position: -80px 0
+        }
+    }
+    &.disabled {
+        background-position: -60px 0;
+        cursor: default;
+    }
+}
+// custon radio button
+.icheckbox_polaris, .iradio_polaris {
+    display: inline-block;
+    *display: inline;
+    background: url("../img/polaris.png") no-repeat;
+    border: none;
+    cursor: pointer;
+    height: 24px;
+    margin: 0;
+    padding: 0;
+    vertical-align: text-bottom;
+    width: 24px;
+}
+.icheckbox_polaris {
+    background-position: 0 0;
+
+    &.hover {
+        background-position: -31px 0
+    }
+    &.checked {
+        background-position: -62px 0
+    }
+}
+.iradio_polaris {
+    background-position: -156px 0;
+    
+    &.hover {
+        background-position: -187px 0
+    }
+    &.checked {
+        background-position: -218px 0
+    }
+}
+
+.modal {
+
+    .modal-dialog {
+
+        .modal-content {
+            border: none;
+            -webkit-box-shadow: 0px 0px 0px 6px rgba(102, 102, 102, 0.65);
+            -moz-box-shadow: 0px 0px 0px 6px rgba(102, 102, 102, 0.65);
+            box-shadow: 0px 0px 0px 6px rgba(102, 102, 102, 0.65);
+        
+            .modal-header {
+                border-top-left-radius:5px;  
+                border-top-right-radius:5px;
+                border-color: @line-new;
+                line-height: 50px;
+
+                button.close {
+                    background: @red;
+                    height: 32px;
+                    width: 32px;
+                    .border-radius(16px);
+                    position: absolute;
+                    right: -16px;
+                    top: -16px;
+
+                }
+
+            } // modal header
+
+            .modal-body {          
+                padding: 20px 10px 0;
+                p {
+                    .open-normal(14px);
+                    color: @gris;
+                    line-height: 18px;
+                }
+              
+            } // modal body
+
+            .modal-footer {
+                margin:0;
+                border:none;       
+                padding: 0 10px 10px
+
+            } // modal footer
+
+        } // modal content
+
+    } // modal dialog
+
+} // modal
+
+.cvv2 {
+    
+    .modal-dialog {
+        margin-top: 100px;
+
+        .modal-content {
+
+            .modal-header {
+                background: @green;
+                padding: 10px 0 10px 15px;
+
+                h4 {
+                    .lato(20px,italic,600);
+                    color: @white
+                }
+
+                .close {
+                    color: @white;
+                    font-size: 24px;
+                    font-weight: 500;
+                    opacity: 1;
+                    position: absolute;
+                    right: 9px;
+                    top: 7px;
+                }
+            }
+
+            .modal-body {
+              
+                p {
+                    margin-bottom: 15px;
+                }
+
+                img {
+                    padding-bottom: 35px;
+                    max-width: 100%;
+                }
+              
+            }
+
+        }
+
+    }
+
+} // cvv2
+
+.price-discount {
+    display: inline-block;
+    text-align: right;
+    padding: 8px 0 0 0;
+}
+.badge-discount {
+    position: absolute;
+    background: #FEA642;
+    left: 0px;
+    top: 16px;
+    color: #FFF;
+    padding: 2px 12px;
+    font-size: 16px;
+}
+.account-type-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    .account-type {
+        text-align: center;
+        font-family: "Lato";
+        color: #646B74;
+        .icon {
+            padding: 5px 0 20px;
+        }
+        .title {
+            font-size: 24px;
+        }
+        .desc {
+            font-size: 14px;
+            padding: 20px 0;
+        }
+        .sec-divider {
+            font-size: 20px;
+            font-weight: bold;
+            padding: 115px 0;
+            &:before, &:after {
+                padding: 55px 0;
+                position: absolute;
+                content: "";
+                border-left: 1px solid #7d7d7d;
+                border-right: 1px solid #e0e0e0;
+                left: 50%;
+            }
+            &:before {
+                top: 0px;
+            }
+            &:after {
+                top: 148px;
+            }
+            @media (max-width: (@sm-width - 1)) {
+                padding: 55px 0;
+                &:before, &:after {
+                    padding: 0 55px;
+                    position: absolute;
+                    content: "";
+                    border-top: 1px solid #7d7d7d;
+                    border-bottom: 1px solid #e0e0e0;
+                    top: 50%;
+                }
+                &:before {
+                    left: 50%;
+                    transform: translate(-160px, 0);
+                }
+                &:after {
+                    left: 50%;
+                    transform: translate(45px, 0);
+                }
+            }        
+        }
+    }
+}
+.nutritionist-info {
+    .new-file-add {
+        width: 82px;
+        height: 82px;
+        border: 1px solid #DFDFDF;
+        background: #F5F5F5;
+        position: relative;
+        cursor: pointer;
+        &:before {
+            content: "+";
+            color: #85ce48;
+            font-size: 26px;
+            line-height: 72px;
+            text-align: center;
+            display: block;
+        }
+        &:after {
+            content: "x";
+            color: #FF0000;
+            font-size: 26px;
+            line-height: 72px;
+            height: 80px;
+            text-align: center;
+            display: none;
+            position: relative;
+        }
+        input[type=file] {
+            width: 100%;
+            height: 100%;
+            opacity: 0;
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            cursor: pointer;
+        }
+        img {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+    }
+    .file-selected {
+        input[type=file] {
+            display: none;
+        }
+        &:before {
+            display: none;
+        }
+        &:after {
+            display: block;
+        }
+    }
+    .file-certificate {
+        .new-file-add {
+            float: left;
+            margin-right: 5px;
+        }    
+    }
+}

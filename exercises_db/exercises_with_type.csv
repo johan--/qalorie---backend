@@ -1,0 +1,178 @@
+8.5,cardio,bicycling BMX or mountain
+4,cardio,bicycling for pleasure
+6,cardio,bicycling light effort
+8,cardio,bicycling moderate effort
+10,cardio,bicycling vigorous effor
+12,cardio,bicycling racing geners.
+5,cardio,unicycling
+7,strenght,"bicycling, stationary, general"
+5.5,strenght,"bicycling, stationary light effort"
+7,strenght,"bicycling, stationary, moderate effort"
+10.5,strenght,"bicycling, stationary, vigorous effort"
+8,strenght,"Pushups, situps and jumping jacks"
+3.5,strenght,"home exercise, light or moderate effort"
+8,strenght,circuit training with minimal rest.
+6,strenght,"weight lifting or body building, vigorous effort"
+5.5,strenght,"health club exercise, general"
+9,strenght,"stair-treadmill ergometer, general"
+7,strenght,"rowing, stationary ergometer, general"
+3.5,strenght,"rowing, stationary light effor"
+7,strenght,"rowing, stationary moderate effor"
+8.5,strenght,"rowing, stationary vigorous effor"
+7,strenght,"ski machine, general"
+6,strenght,"slimnastics, jazercise"
+2.5,strenght,"stretching, hatha yoga"
+2.5,strenght,mild stretching
+6,strenght,teaching aerobic exercise class
+4,strenght,"water aerobis, water calisthenics"
+3,strenght,"weight lifting, light workout."
+1,strenght,"whirpool, sitting"
+4.8,cardio,"ballet or modern, twist, jazz, tap, jitterbug"
+6.5,cardio,"aerobic, general"
+8.5,cardio,"aerobic, step."
+5,cardio,"aerobic, low impact"
+7,cardio,"aerobic, high impact"
+4.5,cardio,"Dance, general."
+5.5,cardio,"ballroom, dancing fast"
+5.5,cardio,Traditional american indian dancing
+6,cardio,jog/walk combination
+8,cardio,"jogging, in place"
+4.5,cardio,jogging on a mini-tramp
+10,cardio,"running, light effort."
+13.5,cardio,"running, moderate effort."
+16,cardio,"running, vigorous effort."
+9,cardio,"running, cross country"
+8,cardio,"running, general."
+15,cardio,"running, stairs, up"
+10,cardio,"running, on a track, team practice"
+8,cardio,"running, training, pushing a wheelchair"
+3,cardio,"running, wheeling, general"
+3.5,strenght,archery (non-hunting)
+7,strenght,"badminton, competitive"
+4.5,strenght,"badminton, general"
+8,strenght,"basketball, game"
+6,strenght,"basketball, non-game, general"
+7,strenght,"basketball, officiating"
+4.5,strenght,"basketball, shooting baskets"
+6.5,strenght,"basketball, wheelchair"
+2.5,strenght,billards
+3,strenght,bowling
+12,strenght,"boxing, in ring, general"
+6,strenght,"boxing, punching bag"
+9,strenght,"boxing, sparring"
+7,strenght,broomball
+5,strenght,"cricket (batting, bowling)"
+2.5,strenght,croquet
+4,strenght,curling
+2.5,strenght,"darts, wall or lawn"
+6,strenght,"drag racing, pushing or driving a car"
+6,strenght,fencing
+9,strenght,"football, competitive"
+8,strenght,"football, touch, flag, general"
+2.5,strenght,"football or baseball, playing catch"
+3,strenght,"frisbee playing, general"
+8,strenght,"frisbee, ultimate"
+4.5,strenght,"golf, general"
+4,strenght,"gymnastics, general"
+4,strenght,hacky sack
+12,strenght,handball general
+8,strenght,"handball, team"
+3.5,strenght,hand gliding
+8,strenght,"hockey, field"
+8,strenght,"hockey, ice"
+4,strenght,"horseback riding, general"
+3.5,strenght,"horseback riding, saddling horse"
+6.5,strenght,"horseback riding, trotting"
+2.5,strenght,"horseback riding, walking"
+3,strenght,"horseback pitching, quoits"
+12,strenght,jai alai
+10,strenght,"judo, jujitsu, karate, kick boxing, tae kwan do"
+4,strenght,juggling
+7,strenght,kickball
+8,strenght,lacrosse
+4,strenght,motor cross
+9,strenght,orienteering
+10,strenght,"paddleball, competitive"
+6,strenght,"paddleball, casual general"
+8,strenght,polo
+10,strenght,"racquetball, competitive"
+7,strenght,"racquetball, casual, general"
+11,strenght,"rock climbing, ascendig rock"
+8,strenght,"rock climbing, rappelling"
+12,strenght,"rope jumping, fast"
+10,strenght,"rope jumping, moderate."
+8,strenght,"rope jumping, slow"
+10,strenght,rugby
+3,strenght,"shuffleboard, lawn bowling"
+5,strenght,skateboarding
+7,strenght,"skating, roller"
+3.5,strenght,sky diving
+10,strenght,"soccer, competitive"
+7,strenght,"soccer, casual general"
+5,strenght,softball or baseball.
+6,strenght,"softball, pitching"
+12,strenght,squash
+4,strenght,"table tennis, ping pong"
+4,strenght,tai chi
+7,strenght,"tennis, general"
+6,strenght,"tennis, doubles"
+8,strenght,"tennis, singles"
+3.5,strenght,trampoline
+4,strenght,volley ball
+8,strenght,"volleyball, competitive, in gymnasium"
+3,strenght,"volleyball,, non-competitive"
+8,strenght,"volleyball, beach"
+7,strenght,"wallyball, beach"
+7,strenght,climbing hills light effort.
+7.5,strenght,climbing hills moderate effort.
+9,strenght,climbing hills vigorous effort.
+6,strenght,"hiking, cross country"
+6.5,strenght,"marching, rapidly, military"
+6.5,strenght,race walking
+8,strenght,rock or mountain climbing
+8,strenght,"up stairs, using or climbing"
+2.5,cardio,"walking, for pleasure."
+3.8,cardio,"walking, light effort."
+5,cardio,"walking, moderate effort."
+8,cardio,"walking, vigorous effort."
+2.5,cardio,"boating, power"
+4,cardio,"canoeing, on camping trip"
+7,cardio,"canoeing, portaging"
+3,cardio,"canoeing, light effort"
+7,cardio,"canoeing, moderate effort"
+12,cardio,"canoeing,vigorous effort"
+3.5,cardio,"canoeing, rowing for pleasure, general"
+12,cardio,"canoeing, rowing, in competition"
+3,cardio,"diving, springboard or platform"
+5,cardio,kayaking
+4,cardio,paddle boat
+3,cardio,"sailing, general"
+5,strenght,"sailing, in competition"
+6,strenght,"skiing, water"
+7,strenght,skimobiling
+16,strenght,"skindiving, fast"
+12.5,strenght,"skindiving, moderate"
+7,strenght,"skindiving, scuba diving, general"
+5,strenght,snorkeling
+3,strenght,"surfing, body or board"
+10,strenght,"swimming freestyle, vigorous effort."
+8,strenght,"swimming, moderate or light effort"
+6,strenght,"swimming, general"
+10,strenght,"swimming,vigorous effort"
+4,strenght,"water aerobics, water calisthenics"
+10,strenght,water polo
+3,strenght,water volleyball
+8,cardio,water jogging
+5,cardio,"whilewater rafting, kayaking or canoeing"
+7,cardio,"skating, ice, general"
+9,cardio,"skating, ice, rapidly."
+15,cardio,"skating, speed, competitive"
+7,cardio,ski jumping (clim up carrying skis)
+7,cardio,"skiing, general."
+9,cardio,"skiing, cross country, vigorous effort."
+14,cardio,"skiing, cross country, racing."
+16.5,cardio,"skiing, cross country, uphill."
+6,cardio,"skiing, downhill, general."
+8,cardio,"skiing, downhill, vigorous effort."
+7,cardio,"sledding, tobogganing, bobsledding, luge"
+8,cardio,snow shoeing

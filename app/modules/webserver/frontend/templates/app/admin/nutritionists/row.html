@@ -1,0 +1,8 @@
+<td class="text-left"><%= model.id %></td>
+<td class="text-left"><%= model.escape('first_name') + ' ' + model.escape('last_name') %></td>
+<td class="text-left"><%= model.get('email') %></td>
+<td class="text-left"><%= (model.get('gender') == 'F') ? 'Female' : 'Male' %></td>
+<td class="text-left"><%= moment(model.get('created')).format('YYYY/MM/DD hh:mm a') %></td>
+<td class="text-center">
+  <button class="btn btn-info view"><span class="fa fa-eye"></span></button>
+</td>

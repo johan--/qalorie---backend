@@ -1,0 +1,42 @@
+//[User|+Forename+;Surname;+HashedPassword;-Salt|+Login();+Logout()]
+
+// Cool Class Diagram
+//[Customer|-forname:string;surname:string|doShiz()]<>-orders*>[Order]
+//[Order]++-0..*>[LineItem]
+//[Order]-[note:Aggregate root{bg:wheat}]
+
+// ## User and accounts
+[User|-name;-passwrd]<>-account-0..2>[Account]
+[Nutritionist]
+[Patient]
+
+
+//     -- Relationships
+[Account]^-[Nutritionist]
+[Account]^-[Patient]
+
+[Status|type: food/exercise/bodyProgress]
+[Goal]
+[BodyProgress]
+
+[User] -> [Goal]
+[User] -> [BodyProgress]
+[User] - [Food]
+[User] - [Excercise]
+
+[User]-share->[Status]
+
+[Appointment|patient:User;nutritionist:User;patient_stats:PatientStats;patient_answers:AppointmentQuestionary]
+[AppointmentQuestionary|answers []String]
+[AppointmentMessage]
+
+[Appointment]<>->[AppointmentMessage]
+[Appointment]<>-questionary-1->[AppointmentQuestionary]
+[Appointment]++-patient/nutritionist->[User]
+
+
+//[Patient]-requests->[Appointment]
+
+
+[Excercise]
+[Food]++-ingredient*->[Food]

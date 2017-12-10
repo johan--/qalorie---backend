@@ -1,0 +1,177 @@
+,,
+METS,SPORT CATEGORY,DESCRIPTION
+"8,5",BICYCLING,bicycling BMX or mountain
+4,BICYCLING,bicycling for pleasure
+6,BICYCLING,bicycling light effort
+8,BICYCLING,bicycling moderate effort
+10,BICYCLING,bicycling vigorous effor
+12,BICYCLING,bicycling racing geners.
+5,BICYCLING,unicycling
+7,CONDITIONING EXERCISE,"bicycling, stationary, general"
+"5,5",CONDITIONING EXERCISE,"bicycling, stationary light effort"
+7,CONDITIONING EXERCISE,"bicycling, stationary, moderate effort"
+"10,5",CONDITIONING EXERCISE,"bicycling, stationary, vigorous effort"
+"3,5",CONDITIONING EXERCISE,"home exercise, light or moderate effort"
+8,CONDITIONING EXERCISE,circuit training with minimal rest.
+"5,5",CONDITIONING EXERCISE,"health club exercise, general"
+9,CONDITIONING EXERCISE,"stair-treadmill ergometer, general"
+7,CONDITIONING EXERCISE,"rowing, stationary ergometer, general"
+"3,5",CONDITIONING EXERCISE,"rowing, stationary light effor"
+7,CONDITIONING EXERCISE,"rowing, stationary moderate effor"
+"8,5",CONDITIONING EXERCISE,"rowing, stationary vigorous effor"
+7,CONDITIONING EXERCISE,"ski machine, general"
+6,CONDITIONING EXERCISE,"slimnastics, jazercise"
+2,CONDITIONING EXERCISE,"stretching, hatha yoga"
+"2,5",CONDITIONING EXERCISE,mild stretching
+6,CONDITIONING EXERCISE,teaching aerobic exercise class
+4,CONDITIONING EXERCISE,"water aerobis, water calisthenics"
+1,CONDITIONING EXERCISE,"whirpool, sitting"
+"4,8",DANCING,"ballet or modern, twist, jazz, tap, jitterbug"
+"6,5",DANCING,"aerobic, general"
+"8,5",DANCING,"aerobic, step."
+5,DANCING,"aerobic, low impact"
+7,DANCING,"aerobic, high impact"
+"4,5",DANCING,"Dance, general."
+"5,5",DANCING,"ballroom, dancing fast"
+"5,5",DANCING,Traditional american indian dancing
+6,RUNNING,jog/walk combination
+8,RUNNING,"jogging, in place"
+"4,5",RUNNING,jogging on a mini-tramp
+10,RUNNING,"running, light effort."
+"13,5",RUNNING,"running, moderate effort."
+16,RUNNING,"running, vigorous effort."
+9,RUNNING,"running, cross country"
+8,RUNNING,"running, general."
+15,RUNNING,"running, stairs, up"
+10,RUNNING,"running, on a track, team practice"
+8,RUNNING,"running, training, pushing a wheelchair"
+3,RUNNING,"running, wheeling, general"
+"3,5",SPORTS,archery (non-hunting)
+7,SPORTS,"badminton, competitive"
+"4,5",SPORTS,"badminton, general"
+8,SPORTS,"basketball, game"
+6,SPORTS,"basketball, non-game, general"
+7,SPORTS,"basketball, officiating"
+"4,5",SPORTS,"basketball, shooting baskets"
+"6,5",SPORTS,"basketball, wheelchair"
+"2,5",SPORTS,billards
+3,SPORTS,bowling
+12,SPORTS,"boxing, in ring, general"
+6,SPORTS,"boxing, punching bag"
+9,SPORTS,"boxing, sparring"
+7,SPORTS,broomball
+5,SPORTS,"cricket (batting, bowling)"
+"2,5",SPORTS,croquet
+4,SPORTS,curling
+"2,5",SPORTS,"darts, wall or lawn"
+6,SPORTS,"drag racing, pushing or driving a car"
+6,SPORTS,fencing
+9,SPORTS,"football, competitive"
+8,SPORTS,"football, touch, flag, general"
+"2,5",SPORTS,"football or baseball, playing catch"
+3,SPORTS,"frisbee playing, general"
+8,SPORTS,"frisbee, ultimate"
+"4,5",SPORTS,"golf, general"
+4,SPORTS,"gymnastics, general"
+4,SPORTS,hacky sack
+12,SPORTS,handball general
+8,SPORTS,"handball, team"
+"3,5",SPORTS,hand gliding
+8,SPORTS,"hockey, field"
+8,SPORTS,"hockey, ice"
+4,SPORTS,"horseback riding, general"
+"3,5",SPORTS,"horseback riding, saddling horse"
+"6,5",SPORTS,"horseback riding, trotting"
+"2,5",SPORTS,"horseback riding, walking"
+3,SPORTS,"horseback pitching, quoits"
+12,SPORTS,jai alai
+10,SPORTS,"judo, jujitsu, karate, kick boxing, tae kwan do"
+4,SPORTS,juggling
+7,SPORTS,kickball
+8,SPORTS,lacrosse
+4,SPORTS,motor cross
+9,SPORTS,orienteering
+10,SPORTS,"paddleball, competitive"
+6,SPORTS,"paddleball, casual general"
+8,SPORTS,polo
+10,SPORTS,"racquetball, competitive"
+7,SPORTS,"racquetball, casual, general"
+11,SPORTS,"rock climbing, ascendig rock"
+8,SPORTS,"rock climbing, rappelling"
+12,SPORTS,"rope jumping, fast"
+10,SPORTS,"rope jumping, moderate."
+8,SPORTS,"rope jumping, slow"
+10,SPORTS,rugby
+3,SPORTS,"shuffleboard, lawn bowling"
+5,SPORTS,skateboarding
+7,SPORTS,"skating, roller"
+"3,5",SPORTS,sky diving
+10,SPORTS,"soccer, competitive"
+7,SPORTS,"soccer, casual general"
+5,SPORTS,softball or baseball.
+6,SPORTS,"softball, pitching"
+12,SPORTS,squash
+4,SPORTS,"table tennis, ping pong"
+4,SPORTS,tai chi
+7,SPORTS,"tennis, general"
+6,SPORTS,"tennis, doubles"
+8,SPORTS,"tennis, singles"
+"3,5",SPORTS,trampoline
+4,SPORTS,volley ball
+8,SPORTS,"volleyball, competitive, in gymnasium"
+3,SPORTS,"volleyball,, non-competitive"
+8,SPORTS,"volleyball, beach"
+7,SPORTS,"wallyball, beach"
+7,WALKING,climbing hills light effort.
+"7,5",WALKING,climbing hills moderate effort.
+9,WALKING,climbing hills vigorous effort.
+6,WALKING,"hiking, cross country"
+"6,5",WALKING,"marching, rapidly, military"
+"6,5",WALKING,race walking
+8,WALKING,rock or mountain climbing
+8,WALKING,"up stairs, using or climbing"
+"2,5",WALKING,"walking, for pleasure."
+"3,8",WALKING,"walking, light effort."
+5,WALKING,"walking, moderate effort."
+8,WALKING,"walking, vigorous effort."
+"2,5",WATER ACTIVITIES,"boating, power"
+4,WATER ACTIVITIES,"canoeing, on camping trip"
+7,WATER ACTIVITIES,"canoeing, portaging"
+3,WATER ACTIVITIES,"canoeing, light effort"
+7,WATER ACTIVITIES,"canoeing, moderate effort"
+12,WATER ACTIVITIES,"canoeing,vigorous effort"
+"3,5",WATER ACTIVITIES,"canoeing, rowing for pleasure, general"
+12,WATER ACTIVITIES,"canoeing, rowing, in competition"
+3,WATER ACTIVITIES,"diving, springboard or platform"
+5,WATER ACTIVITIES,kayaking
+4,WATER ACTIVITIES,paddle boat
+3,WATER ACTIVITIES,"sailing, general"
+5,WATER ACTIVITIES,"sailing, in competition"
+6,WATER ACTIVITIES,"skiing, water"
+7,WATER ACTIVITIES,skimobiling
+16,WATER ACTIVITIES,"skindiving, fast"
+"12,5",WATER ACTIVITIES,"skindiving, moderate"
+7,WATER ACTIVITIES,"skindiving, scuba diving, general"
+5,WATER ACTIVITIES,snorkeling
+3,WATER ACTIVITIES,"surfing, body or board"
+10,WATER ACTIVITIES,"swimming freestyle, vigorous effort."
+8,WATER ACTIVITIES,"swimming, moderate or light effort"
+6,WATER ACTIVITIES,"swimming, general"
+10,WATER ACTIVITIES,"swimming,vigorous effort"
+4,WATER ACTIVITIES,"water aerobics, water calisthenics"
+10,WATER ACTIVITIES,water polo
+3,WATER ACTIVITIES,water volleyball
+8,WATER ACTIVITIES,water jogging
+5,WATER ACTIVITIES,"whilewater rafting, kayaking or canoeing"
+7,WINTER ACTIVITIES,"skating, ice, general"
+9,WINTER ACTIVITIES,"skating, ice, rapidly."
+15,WINTER ACTIVITIES,"skating, speed, competitive"
+7,WINTER ACTIVITIES,ski jumping (clim up carrying skis)
+7,WINTER ACTIVITIES,"skiing, general."
+9,WINTER ACTIVITIES,"skiing, cross country, vigorous effort."
+14,WINTER ACTIVITIES,"skiing, cross country, racing."
+"16,5",WINTER ACTIVITIES,"skiing, cross country, uphill."
+6,WINTER ACTIVITIES,"skiing, downhill, general."
+8,WINTER ACTIVITIES,"skiing, downhill, vigorous effort."
+7,WINTER ACTIVITIES,"sledding, tobogganing, bobsledding, luge"
+8,WINTER ACTIVITIES,snow shoeing

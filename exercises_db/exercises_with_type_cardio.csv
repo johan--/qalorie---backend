@@ -1,0 +1,188 @@
+METS,SPORT CATEGORY,DESCRIPTION,DESCRIPTION
+8.5,cardio,bicycling BMX or mountain,BICYCLING
+4,cardio,bicycling for pleasure,BICYCLING
+6,cardio,bicycling light effort,BICYCLING
+8,cardio,bicycling moderate effort,BICYCLING
+10,cardio,bicycling vigorous effor,BICYCLING
+12,cardio,bicycling racing geners.,BICYCLING
+5,cardio,unicycling,BICYCLING
+7,cardio,"bicycling, stationary, general",CONDITIONING EXERCIS
+5.5,cardio,"bicycling, stationary light effort",CONDITIONING EXERCIS
+7,cardio,"bicycling, stationary, moderate effort",CONDITIONING EXERCIS
+10.5,cardio,"bicycling, stationary, vigorous effort",CONDITIONING EXERCIS
+8,cardio,"Pushups, situps and jumping jacks",CONDITIONING EXERCIS
+3.5,cardio,"home exercise, light or moderate effort",CONDITIONING EXERCIS
+8,cardio,circuit training with minimal rest.,CONDITIONING EXERCIS
+6,cardio,"weight lifting or body building, vigorous effort",CONDITIONING EXERCIS
+5.5,cardio,"health club exercise, general",CONDITIONING EXERCIS
+9,cardio,"stair-treadmill ergometer, general",CONDITIONING EXERCIS
+7,cardio,"rowing, stationary ergometer, general",CONDITIONING EXERCIS
+3.5,cardio,"rowing, stationary light effor",CONDITIONING EXERCIS
+7,cardio,"rowing, stationary moderate effor",CONDITIONING EXERCIS
+8.5,cardio,"rowing, stationary vigorous effor",CONDITIONING EXERCIS
+7,cardio,"ski machine, general",CONDITIONING EXERCIS
+6,cardio,"slimnastics, jazercise",CONDITIONING EXERCIS
+2.5,cardio,"stretching, hatha yoga",CONDITIONING EXERCIS
+2.5,cardio,mild stretching,CONDITIONING EXERCIS
+6,cardio,teaching aerobic exercise class,CONDITIONING EXERCIS
+4,cardio,"water aerobis, water calisthenics",CONDITIONING EXERCIS
+3,cardio,"weight lifting, light workout.",CONDITIONING EXERCIS
+1,cardio,"whirpool, sitting",CONDITIONING EXERCIS
+4.8,cardio,"ballet or modern, twist, jazz, tap, jitterbug",DANCING
+6.5,cardio,"aerobic, general",DANCING
+8.5,cardio,"aerobic, step.",DANCING
+5,cardio,"aerobic, low impact",DANCING
+7,cardio,"aerobic, high impact",DANCING
+4.5,cardio,"Dance, general.",DANCING
+5.5,cardio,"ballroom, dancing fast",DANCING
+5.5,cardio,Traditional american indian dancing,DANCING
+6,cardio,jog/walk combination,RUNNING
+8,cardio,"jogging, in place",RUNNING
+4.5,cardio,jogging on a mini-tramp,RUNNING
+10,cardio,"running, light effort.",RUNNING
+13.5,cardio,"running, moderate effort.",RUNNING
+16,cardio,"running, vigorous effort.",RUNNING
+9,cardio,"running, cross country",RUNNING
+8,cardio,"running, general.",RUNNING
+15,cardio,"running, stairs, up",RUNNING
+10,cardio,"running, on a track, team practice",RUNNING
+8,cardio,"running, training, pushing a wheelchair",RUNNING
+3,cardio,"running, wheeling, general",RUNNING
+3.5,cardio,archery (non-hunting),SPORTS
+7,cardio,"badminton, competitive",SPORTS
+4.5,cardio,"badminton, general",SPORTS
+8,cardio,"basketball, game",SPORTS
+6,cardio,"basketball, non-game, general",SPORTS
+7,cardio,"basketball, officiating",SPORTS
+4.5,cardio,"basketball, shooting baskets",SPORTS
+6.5,cardio,"basketball, wheelchair",SPORTS
+2.5,cardio,billards,SPORTS
+3,cardio,bowling,SPORTS
+12,cardio,"boxing, in ring, general",SPORTS
+6,cardio,"boxing, punching bag",SPORTS
+9,cardio,"boxing, sparring",SPORTS
+7,cardio,broomball,SPORTS
+5,cardio,"cricket (batting, bowling)",SPORTS
+2.5,cardio,croquet,SPORTS
+4,cardio,curling,SPORTS
+2.5,cardio,"darts, wall or lawn",SPORTS
+6,cardio,"drag racing, pushing or driving a car",SPORTS
+6,cardio,fencing,SPORTS
+9,cardio,"football, competitive",SPORTS
+8,cardio,"football, touch, flag, general",SPORTS
+2.5,cardio,"football or baseball, playing catch",SPORTS
+3,cardio,"frisbee playing, general",SPORTS
+8,cardio,"frisbee, ultimate",SPORTS
+4.5,cardio,"golf, general",SPORTS
+4,cardio,"gymnastics, general",SPORTS
+4,cardio,hacky sack,SPORTS
+12,cardio,handball general,SPORTS
+8,cardio,"handball, team",SPORTS
+3.5,cardio,hand gliding,SPORTS
+8,cardio,"hockey, field",SPORTS
+8,cardio,"hockey, ice",SPORTS
+4,cardio,"horseback riding, general",SPORTS
+3.5,cardio,"horseback riding, saddling horse",SPORTS
+6.5,cardio,"horseback riding, trotting",SPORTS
+2.5,cardio,"horseback riding, walking",SPORTS
+3,cardio,"horseback pitching, quoits",SPORTS
+12,cardio,jai alai,SPORTS
+10,cardio,"judo, jujitsu, karate, kick boxing, tae kwan do",SPORTS
+4,cardio,juggling,SPORTS
+7,cardio,kickball,SPORTS
+8,cardio,lacrosse,SPORTS
+4,cardio,motor cross,SPORTS
+9,cardio,orienteering,SPORTS
+10,cardio,"paddleball, competitive",SPORTS
+6,cardio,"paddleball, casual general",SPORTS
+8,cardio,polo,SPORTS
+10,cardio,"racquetball, competitive",SPORTS
+7,cardio,"racquetball, casual, general",SPORTS
+11,cardio,"rock climbing, ascendig rock",SPORTS
+8,cardio,"rock climbing, rappelling",SPORTS
+12,cardio,"rope jumping, fast",SPORTS
+10,cardio,"rope jumping, moderate.",SPORTS
+8,cardio,"rope jumping, slow",SPORTS
+10,cardio,rugby,SPORTS
+3,cardio,"shuffleboard, lawn bowling",SPORTS
+5,cardio,skateboarding,SPORTS
+7,cardio,"skating, roller",SPORTS
+3.5,cardio,sky diving,SPORTS
+10,cardio,"soccer, competitive",SPORTS
+7,cardio,"soccer, casual general",SPORTS
+5,cardio,softball or baseball.,SPORTS
+6,cardio,"softball, pitching",SPORTS
+12,cardio,squash,SPORTS
+4,cardio,"table tennis, ping pong",SPORTS
+4,cardio,tai chi,SPORTS
+7,cardio,"tennis, general",SPORTS
+6,cardio,"tennis, doubles",SPORTS
+8,cardio,"tennis, singles",SPORTS
+3.5,cardio,trampoline,SPORTS
+4,cardio,volley ball,SPORTS
+8,cardio,"volleyball, competitive, in gymnasium",SPORTS
+3,cardio,"volleyball,, non-competitive",SPORTS
+8,cardio,"volleyball, beach",SPORTS
+7,cardio,"wallyball, beach",SPORTS
+7,cardio,climbing hills light effort.,walking
+7.5,cardio,climbing hills moderate effort.,walking
+9,cardio,climbing hills vigorous effort.,walking
+6,cardio,"hiking, cross country",walking
+6.5,cardio,"marching, rapidly, military",walking
+6.5,cardio,race walking,walking
+8,cardio,rock or mountain climbing,walking
+8,cardio,"up stairs, using or climbing",walking
+2.5,cardio,"walking, for pleasure.",walking
+3.8,cardio,"walking, light effort.",WALKING
+5,cardio,"walking, moderate effort.",WALKING
+8,cardio,"walking, vigorous effort.",WALKING
+2.5,cardio,"boating, power",WALKING
+4,cardio,"canoeing, on camping trip",WALKING
+7,cardio,"canoeing, portaging",WALKING
+3,cardio,"canoeing, light effort",WALKING
+7,cardio,"canoeing, moderate effort",WALKING
+12,cardio,"canoeing,vigorous effort",WALKING
+3.5,cardio,"canoeing, rowing for pleasure, general",WALKING
+12,cardio,"canoeing, rowing, in competition",WALKING
+3,cardio,"diving, springboard or platform",WALKING
+5,cardio,kayaking,WATER ACTIVITIES
+4,cardio,paddle boat,WATER ACTIVITIES
+3,cardio,"sailing, general",WATER ACTIVITIES
+5,cardio,"sailing, in competition",WATER ACTIVITIES
+6,cardio,"skiing, water",WATER ACTIVITIES
+7,cardio,skimobiling,WATER ACTIVITIES
+16,cardio,"skindiving, fast",WATER ACTIVITIES
+12.5,cardio,"skindiving, moderate",WATER ACTIVITIES
+7,cardio,"skindiving, scuba diving, general",WATER ACTIVITIES
+5,cardio,snorkeling,WATER ACTIVITIES
+3,cardio,"surfing, body or board",WATER ACTIVITIES
+10,cardio,"swimming freestyle, vigorous effort.",WATER ACTIVITIES
+8,cardio,"swimming, moderate or light effort",WATER ACTIVITIES
+6,cardio,"swimming, general",WATER ACTIVITIES
+10,cardio,"swimming,vigorous effort",WATER ACTIVITIES
+4,cardio,"water aerobics, water calisthenics",WATER ACTIVITIES
+10,cardio,water polo,WATER ACTIVITIES
+3,cardio,water volleyball,WATER ACTIVITIES
+8,cardio,water jogging,WATER ACTIVITIES
+5,cardio,"whilewater rafting, kayaking or canoeing",WATER ACTIVITIES
+7,cardio,"skating, ice, general",WATER ACTIVITIES
+9,cardio,"skating, ice, rapidly.",WATER ACTIVITIES
+15,cardio,"skating, speed, competitive",WATER ACTIVITIES
+7,cardio,ski jumping (clim up carrying skis),WATER ACTIVITIES
+7,cardio,"skiing, general.",WATER ACTIVITIES
+9,cardio,"skiing, cross country, vigorous effort.",WATER ACTIVITIES
+14,cardio,"skiing, cross country, racing.",WATER ACTIVITIES
+16.5,cardio,"skiing, cross country, uphill.",WATER ACTIVITIES
+6,cardio,"skiing, downhill, general.",WATER ACTIVITIES
+8,cardio,"skiing, downhill, vigorous effort.",WINTER ACTIVITIES
+7,cardio,"sledding, tobogganing, bobsledding, luge",WINTER ACTIVITIES
+8,cardio,snow shoeing,WINTER ACTIVITIES
+,,,WINTER ACTIVITIES
+,,,WINTER ACTIVITIES
+,,,WINTER ACTIVITIES
+,,,WINTER ACTIVITIES
+,,,WINTER ACTIVITIES
+,,,WINTER ACTIVITIES
+,,,WINTER ACTIVITIES
+,,,WINTER ACTIVITIES
+,,,WINTER ACTIVITIES
